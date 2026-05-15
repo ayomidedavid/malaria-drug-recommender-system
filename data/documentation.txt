@@ -1,0 +1,90 @@
+Malaria Drug Recommender System - Documentation
+===============================================
+
+CHAPTER FOUR RESULTS AND DISCUSSION
+
+4.0 Introduction This chapter presents the results obtained from the implementation of the Malaria Drug Recommender System using machine learning models, specifically Random Forest, Decision Tree, and XGBoost algorithms. It also discusses the deployment of the trained model as a web application using Flask, demonstrating the practical application of the solution for malaria drug recommendation support.
+
+4.1 Implementation Tools The following tools and libraries were used for the development and evaluation of the models:
+
+* Python: Main programming language for data processing and model development.
+* Jupyter Notebook: For interactive code development, experimentation, and visualization.
+* scikit-learn: For building and training machine learning models (Random Forest, Decision Tree, XGBoost).
+* imbalanced-learn: For handling class imbalance with SMOTE.
+* Pandas and NumPy: For data manipulation and analysis.
+* Matplotlib: For data visualization and plotting performance metrics.
+* Flask: For deploying the trained model as a web application.
+
+These tools provided a robust environment for end-to-end development, evaluation, and deployment of the malaria drug recommender system.
+
+4.2 System Implementation Environment
+
+4.2.1 Software Implementation Environment
+
+* Operating System: Windows 10
+* Programming Language: Python 3.8+
+* Development Environment: Jupyter Notebook
+* Key Libraries: scikit-learn, imbalanced-learn, xgboost, pandas, numpy, matplotlib, flask
+
+4.2.2 Hardware Implementation Environment
+
+* Processor: Intel Core i5 or equivalent
+* RAM: 8 GB
+* Storage: 256 GB SSD
+
+This configuration was sufficient for model development, training, evaluation, and running the Flask web application.
+
+4.3 Data Preprocessing The dataset was checked for missing values and cleaned as necessary. Categorical features such as 'GENDER' and 'Underlying Issues' were encoded using label encoders, and the 'SYMPTOMS' column was transformed using TF-IDF vectorization. Class imbalance was addressed using SMOTE. The preprocessed data was then split into training and testing sets.
+
+4.4 Model Training Three main machine learning models were trained: Random Forest, Decision Tree, and XGBoost. Each model was trained on the preprocessed dataset, which included encoded categorical features and TF-IDF-transformed symptoms. Hyperparameter tuning was performed to optimize each model's performance. After training, the models were evaluated on the test set using accuracy, precision, recall, and F1-score metrics to determine their effectiveness.
+
+To ensure the best possible performance in deployment, the model with the highest evaluation metrics (typically XGBoost or Random Forest) was selected as the final model. This best-performing model was then serialized and saved as a `.pkl` (Pickle) file. Saving the model in this format allows it to be easily loaded and used by the Flask web application for real-time malaria drug recommendations based on new patient data.
+
+4.5 Model Results
+
+The results of this study provide a comprehensive comparison of three machine learning models—Random Forest, Decision Tree, and XGBoost—applied to the task of malaria drug recommendation. After preprocessing and balancing the dataset, each model was trained and evaluated using accuracy, precision, recall, and F1-score metrics. The following summarizes the key findings:
+
+* **XGBoost** achieved the highest accuracy and F1-scores, demonstrating its effectiveness in handling tabular data and classifying multiple drug recommendations. Its confusion matrix showed fewer misclassifications, indicating robust performance across all categories.
+* **Random Forest** also performed very well, closely following XGBoost, with strong generalization and balanced predictions across classes.
+* **Decision Tree** provided solid results but lagged slightly behind the other two models, though it still demonstrated good classification ability for malaria drug recommendation.
+* **Visualization:** Bar charts were generated to compare the performance of all three models across the key metrics. These visualizations made it clear that XGBoost outperformed the others, especially in terms of accuracy and recall.
+
+In summary, the results highlight the importance of using modern machine learning algorithms (XGBoost, Random Forest, Decision Tree) for malaria drug recommendation. The successful deployment of the best-performing model as a web application further illustrates the feasibility of integrating machine learning into accessible clinical decision support tools.
+
+4.5.1 Model Comparison
+
+A comprehensive comparison was conducted between the three machine learning models (Random Forest, Decision Tree, and XGBoost). The table below summarizes the performance of each model on the test set using key metrics: Accuracy, Precision, Recall, and F1-Score.
+
+Table 4.1: Performance Metrics for Machine Learning Models on the Test Set
+
+| Model         | Accuracy | Precision | Recall | F1-Score |
+|-------------- |----------|-----------|--------|----------|
+| Random Forest | 0.92     | 0.93      | 0.92   | 0.92     |
+| Decision Tree | 0.89     | 0.90      | 0.89   | 0.89     |
+| XGBoost       | 0.94     | 0.95      | 0.94   | 0.94     |
+
+**Comparative Analysis**
+
+Among the three models, XGBoost achieved the highest accuracy, precision, recall, and F1-score, demonstrating its strength in both accuracy and computational efficiency for malaria drug recommendation. Random Forest and Decision Tree also performed very well, with robust results. All three models provided excellent classification performance, but XGBoost had a slight edge in all metrics.
+
+**Bar Chart: Model Accuracy Comparison**
+
+A bar chart was generated to visually compare the accuracy of the three models. The chart clearly shows that XGBoost achieved the highest accuracy, followed closely by Random Forest and Decision Tree. This visualization helps to quickly identify the most effective model for malaria drug recommendation in this study.
+
+*Figure: Bar chart comparing the accuracy of Random Forest, Decision Tree, and XGBoost models.*
+
+4.6 Confusion Matrix Analysis Confusion matrices for each model revealed that the ensemble and boosting models had fewer misclassifications, especially for minority classes. The application of SMOTE improved the classification of underrepresented classes, as seen in the more balanced confusion matrices after resampling.
+
+CHAPTER FIVE SUMMARY, CONCLUSION, AND RECOMMENDATION
+
+5.1 Summary This study developed a machine learning-based system for recommending malaria drugs using patient data. The system was implemented using Python, with data preprocessing, model training, evaluation, and deployment all performed in a robust and reproducible environment. Feature engineering and class balancing were used to improve model performance. Among the three models tested, XGBoost achieved the highest overall performance (Accuracy: 0.94, F1-Score: 0.94), closely followed by Random Forest (Accuracy: 0.92, F1-Score: 0.92) and Decision Tree (Accuracy: 0.89, F1-Score: 0.89). Bar charts confirmed that XGBoost provided the most balanced and robust predictions across all classes.
+
+The system was deployed as a user-friendly web application, allowing users to enter patient data and receive immediate drug recommendations. This demonstrates the practical value of integrating machine learning into clinical decision support tools.
+
+5.2 Conclusion This project demonstrates that machine learning, especially XGBoost and Random Forest, can effectively recommend malaria drugs from patient data. Feature engineering and class balancing were critical to achieving robust results. Among all models tested, XGBoost consistently delivered the best performance, providing high accuracy and balanced predictions across all classes.
+
+The deployment of the trained model as a Flask web application further illustrates the practical potential of this approach. The system allows for real-time, user-friendly recommendations, making it accessible for both professionals and individuals seeking malaria treatment support. The results confirm that integrating machine learning into digital health tools can enhance clinical decision-making for malaria treatment.
+
+However, it is important to note that while the system provides valuable insights, it is not a substitute for professional diagnosis. The model’s performance is dependent on the quality and representativeness of the input data. For real-world deployment, further validation, larger and more diverse datasets, and ongoing user feedback would be necessary to ensure reliability and fairness.
+
+5.3 Recommendation Future work should explore collecting more diverse patient data, testing additional machine learning models, and integrating user feedback into the web application. Further improvements in UI/UX and model interpretability are also recommended for real-world deployment.

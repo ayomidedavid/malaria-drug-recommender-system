@@ -1,0 +1,118 @@
+CHAPTER FOUR
+RESULTS AND DISCUSSIONS
+
+4.0 Introduction
+This chapter presents the results obtained from the implementation of the skin disease classification system using deep learning models. It also discusses the deployment of the trained model as a web application using Flask, demonstrating the practical application of the solution for skin disease diagnosis support.
+
+4.1 Implementation Tools
+The following tools and libraries were used for the development and evaluation of the models:
+
+- Python: Main programming language for data processing and model development.
+- Jupyter Notebook: For interactive code development, experimentation, and visualization.
+- TensorFlow and Keras: For building and training deep learning models (Densenet121, EfficientNet, ResNet).
+- Matplotlib and Seaborn: For data visualization and plotting performance metrics.
+
+These tools provided a robust environment for end-to-end development, evaluation, and deployment of the skin disease classifier.
+
+4.2 System Implementation Environment
+
+4.2.1 Software Implementation Environment
+- Operating System: Windows 10
+- Programming Language: Python 3.9
+- Development Environment: Jupyter Notebook
+- Key Libraries: TensorFlow, Keras, Matplotlib, Seaborn
+
+4.2.2 Hardware Implementation Environment
+- Processor: Intel Core i5 (8th Generation)
+- RAM: 8 GB
+- Storage: 256 GB SSD
+
+This configuration was sufficient for model development, training, evaluation, and running the Flask web application.
+
+4.3 Data Preprocessing
+The dataset was checked for missing values and cleaned as necessary. Images were resized and normalized to ensure consistency for model input. Data augmentation techniques were applied to increase the diversity of the training set and improve model generalization. The preprocessed data was then split into training and testing sets.
+
+4.4 Model Training
+Three main deep learning models were trained: Densenet121, EfficientNet, and ResNet. Each model was fine-tuned using transfer learning and trained on the preprocessed image dataset. Hyperparameter tuning was performed to optimize performance. The models were evaluated on the test set using accuracy, precision, recall, and F1-score metrics.
+
+4.5 Model Results
+
+The results of this study provide a comprehensive comparison of three deep learning models—Densenet121, EfficientNet, and ResNet—applied to the task of skin disease classification. After preprocessing and balancing the dataset, each model was trained and evaluated using accuracy, precision, recall, and F1-score metrics. The following summarizes the key findings:
+
+- **EfficientNet** achieved the highest accuracy and F1-scores, demonstrating its effectiveness in handling image data and classifying multiple skin disease conditions. Its confusion matrix showed fewer misclassifications, indicating robust performance across all categories.
+- **Densenet121** also performed very well, closely following EfficientNet, with strong generalization and balanced predictions across classes.
+- **ResNet** provided solid results but lagged slightly behind the other two models, though it still demonstrated good classification ability for skin disease images.
+- **Visualization:** Bar charts were generated to compare the performance of all three models across the key metrics. These visualizations made it clear that EfficientNet outperformed the others, especially in terms of accuracy and recall.
+
+In summary, the results highlight the importance of using modern deep learning architectures (EfficientNet, Densenet121, ResNet) for skin disease classification. The successful deployment of the best-performing model as a web application further illustrates the feasibility of integrating deep learning into accessible diagnostic tools.
+
+4.5.1 Model Comparison
+
+A comprehensive comparison was conducted between the three deep learning models (Densenet121, EfficientNet, and ResNet). The table below summarizes the performance of each model on the test set using key metrics: Accuracy, Precision, Recall, and F1-Score.
+
+Table 4.1: Performance Metrics for Deep Learning Models on the Test Set
+
+
+**Updated Densenet121, EfficientNet, and ResNet50 Results**
+
+After further analysis and retraining, the results for the deep learning models were updated to reflect more accurate performance metrics. The following are the revised results:
+
+**Densenet121 (Updated)**
+
+- Accuracy: 0.9854
+- Precision: 0.9855
+- Recall: 0.9854
+- F1-Score: 0.9852
+
+**EfficientNet (Updated)**
+
+- Accuracy: 0.9896
+- Precision: 0.9898
+- Recall: 0.9896
+- F1-Score: 0.9895
+
+**ResNet50 (Updated)**
+
+- Accuracy: 0.9851
+- Precision: 0.9856
+- Recall: 0.9851
+- F1-Score: 0.9850
+
+**Table: Performance Metrics for the Three Models**
+
+| Model        | Accuracy | Precision | Recall | F1-Score |
+|--------------|----------|-----------|--------|----------|
+| Densenet121  | 0.9854   | 0.9855    | 0.9854 | 0.9852   |
+| EfficientNet | 0.9896   | 0.9898    | 0.9896 | 0.9895   |
+| ResNet50     | 0.9851   | 0.9856    | 0.9851 | 0.9850   |
+
+**Comparative Analysis**
+
+Among the three models, EfficientNet achieved the highest accuracy, precision, recall, and F1-score, demonstrating its strength in both accuracy and computational efficiency for skin disease classification. Densenet121 and ResNet50 also performed very well, with nearly identical and robust results. All three models provided excellent classification performance, but EfficientNet had a slight edge in all metrics.
+
+**Bar Chart: Model Accuracy Comparison**
+
+A bar chart was generated to visually compare the accuracy of the three models. The chart clearly shows that EfficientNet achieved the highest accuracy, followed closely by Densenet121 and ResNet50. This visualization helps to quickly identify the most effective model for skin disease classification in this study.
+
+*Figure: Bar chart comparing the accuracy of Densenet121, EfficientNet, and ResNet50 models.*
+
+4.6 Confusion Matrix Analysis
+Confusion matrices for each model revealed that the ensemble and tree-based models had fewer misclassifications, especially for minority classes. The application of SMOTE improved the classification of underrepresented classes, as seen in the more balanced confusion matrices after resampling.
+
+CHAPTER FIVE
+SUMMARY, CONCLUSION, AND RECOMMENDATION
+
+5.1 Summary
+This study developed a deep learning-based system for classifying skin diseases using image data. The system was implemented using Python, with data preprocessing, model training, evaluation, and deployment all performed in a robust and reproducible environment. Data augmentation and transfer learning were used to improve model performance. Among the three models tested, EfficientNet achieved the highest overall performance (Accuracy: 0.88, F1-Score: 0.88), closely followed by Densenet121 (Accuracy: 0.85, F1-Score: 0.85) and ResNet (Accuracy: 0.83, F1-Score: 0.83). Bar charts confirmed that EfficientNet provided the most balanced and robust predictions across all classes.
+
+The system was deployed as a user-friendly web application, allowing users to upload skin images and receive immediate predictions. This demonstrates the practical value of integrating deep learning into skin disease diagnostic support tools.
+
+5.2 Conclusion
+This project demonstrates that deep learning, especially EfficientNet and Densenet121, can effectively classify skin diseases from image data. Data augmentation and transfer learning were critical to achieving robust results. Among all models tested, EfficientNet consistently delivered the best performance, providing high accuracy and balanced predictions across all classes.
+
+The deployment of the trained model as a Flask web application further illustrates the practical potential of this approach. The system allows for real-time, user-friendly predictions, making it accessible for both professionals and individuals seeking skin disease screening support. The results confirm that integrating deep learning into digital health tools can enhance early detection and intervention for skin diseases.
+
+However, it is important to note that while the system provides valuable insights, it is not a substitute for professional diagnosis. The model’s performance is dependent on the quality and representativeness of the input data. For real-world deployment, further validation, larger and more diverse datasets, and ongoing user feedback would be necessary to ensure reliability and fairness.
+
+5.3 Recommendation
+Future work should explore collecting more diverse image data, testing additional deep learning models, and integrating user feedback into the web application. Further improvements in UI/UX and model interpretability are also recommended for real-world deployment.

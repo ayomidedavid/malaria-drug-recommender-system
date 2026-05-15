@@ -1,0 +1,459 @@
+﻿AGE,GENDER,SYMPTOMS,WEIGHT(kg),TEMPERATURE(degreec),Underlying Issues,PRESCRIBED MEDICATION,Treatment Outcome
+21,M,"Dizziness, Stooling, Abdominal pain ",75.6,37.4,None,P Alaxin tablet,Recovered
+19,F,"Abdominal pain, Headache, Fever, Cold",82.6,36.8,None,I.M Arthemeter Lumefantrine,Recovered
+18,F,"Vomitting, cough, sorethroat, chestpain, cold, fever",66.7,35.4,None, I.M Promethazine (12.0 mg),Recovered
+17,F,"Dizziness, Abdominal pain, Stooling, Cough",50,38,None, Arthemeter Lumefantrine tablet,Recovered
+16,F,"Headache, Fever, Body weakness, Bitter taste in mouth",52,38.6,None,Arthemeter Lumefantrine tablet,Recovered
+21,F,"Abdominal pain, Headache, Fever, Cold",73.7,37.2,None,Arthemeter Lumefantrine tablet,Recovered
+21,M,"Headache, Fever, Body pain",62.9,39.1,None,Arthemeter Lumefantrine tablet,Recovered
+21,F,Dizziness,69,36.4,None,Amoxiclav tablet,Recovered
+18,F,"Headache, Fever, Body weakness, Cough, Cold, Vomitting",55.3,38.4,None,"I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+19,M,"Headache, Fever, Body weakness, Bitter taste in mouth,Cold",69.6,37.4,None,P. Alaxin tablet,Recovered
+18,M,"Headache, Dizziness, Vomitting, Fever",59.9,38.5,None,I.M Arthemeter Lumefantrine,Recovered
+22,F,"Headache, Reduced appetite, Bitter taste in mouth",52.8,36,None,Arthemeter Lumefantrine tablet,Recovered
+19,M,"Nausea, Loss of appetite, Abdominal pain, Vomitting ",55.9,38.2,None,I.M Emal,Returned for further treatment
+20,M,"Fever, Sorethroat, Headache, Cough, Cold",NIL,35.8,None,ACT tablet,Recovered
+18,F,"Headache, Abdominal pain, Body weakness, Nausea",73.1,36.7,None ," I.M Arthemeter Lumefantrine, ACT tab",Recovered
+17,F,"Headache, Fever, Loss of appetite",48.2,36.9,None,"I.V Promethazine, Arthemeter Lumefantrine tab, I.V.F",Admitted for further treatment
+19,F ,"Headache, Fever, Loss of appetite",89.3,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+19,M,"Nausea, Abdominal pain, Vomitting, Headache",57.8,37.1,None, I.M Emal ,Admitted for further treatment
+19,M ,"Headache, Fever, Vomitting, Abdominal pain",80.8,36.4,None,P. Alaxin,Recovered
+20,F,"Headache, Fever, Body weakness, Cough, Cold, Vomitting",82.2,36.5,None,"I.M Emal, Arthemeter Lumefantrine tablet",Recovered
+17,M,"Fever, Stooling, Headache, Abdominal pain, cough, catarrh",60.4,39.1,None,"I.M Emal, I.V.F",Recovered
+19,M,"Headache, body pain, fatigue",NIL,38.1,None,I.M Emal,Admitted for further treatment
+19,F,"Headache,eye pain,abdominal pain ,stooling,dizziness",67.8,36.3,None, I.V.F,Recovered
+19,M,"Fever, body pain ",76.2,37.4,None,ACT tablet,Recovered
+26,M,"Body pain, fever, headache, back pain ",111.1,36.3,None,"I.M Arthemeter Lumefantrine , Arthemeter Lumefantrine tablet",Recovered
+20,M,"Vomitting, stooling ",NIL,36.2,None,I.M Arthemeter Lumefantrine,Recovered
+20,M,"Nausea, headache ,malaise,dizziness, abdominal pain,anorexia ",57,35.8,None,Arthemeter Lumefantrine tablet ,Recovered
+20,M,"Sore throat , body pain ,  fever catarrh",64.3,36.4,None,I.M Arthemeter Lumefantrine ,Admitted for further treatment
+23,M,"cough , headache, body weakness ",72.7,36.4,None, ACT tablet,Admitted for further treatment
+21,M,"Nausea , vomitting , stooling , body weakness ",60.5,35,None,"I.M Arthemeter Lumefantrine , I.V.F ",Admitted for further treatment
+17,F,"Anorexia,Abdominal pain,Chest pain,Cough,Catarrh, fever,headache ",62.4,36.8,None,Arthemeter Lumefatrine tablet,Recovered
+21,F,"Body pain, headache ",82.2,36.6,None,"I.M Arthemeter Lumefantrine, P Alaxin tablet",Recovered
+19,F,"Headache, vomitting, loss of appetite ",88.5,36,None, ACT tablet ,Recovered
+17,F,"Headache,Catarrh ,sore throat",58.9,37,None,ACT tablet,Recovered
+19,M,"Sore throat, joint pain,headache,loss of appetite",55.9,37.4,None,ACT tablet ,Recovered
+21,F,"Body weakness, Fever",48.1,37,None,I.M Emal,Admitted for further treatment
+18,F,"Fever , sore throat , cough , headache",NIL,36.7,None,Arthemeter Lumefatrine tablet,Recovered
+19,F,"Headache,vomitting,cough",49.9,38.3,None,"I.V.F, I.M Arthemeter Lumefantrine",Admitted for further treatment
+21,M,"headache, loss of appetite, Bitter taste in mouth",58,36.7,None,ACT tablet ,Recovered
+26,F,"Abdominal pain, joint pain , sore throat, stooling, headache",NIL,36.5,None,ACT tablet ,Recovered
+18,F,"Headache,stooling,toothache,insomnia",45.7,37.7,None,I.M Arthemeter Lumefantrine ,Recovered
+18,F,"Headache,cold,cough,sore throat,body pain,fever,body weakness",51.7,36.7,None,P Alaxin tablet,Recovered
+18,F,"Headache,body pain, anorexia,fever,cough,catarrh,vomitting ",69.4,37.4,None,"I.M Arthemeter Lumefantrine,I.M Promethazine,Arthemeter Lumefantrine tablet",Admitted for further treatment
+18,F,"Joint pain,sore throat,fever,body weakness,vomitting,headache",55.4,37.9,None,Arthemeter Lumefantrine tablet,Admitted for further treatment
+20,F,"Anorexia,dizziness,Cough,Catarrh, fever,headache,body weakness ",NIL,36.8,None,"I.M Emal , Arthemeter Lumefantrine tablet",Admitted for further treatment
+18,M,"Catarrh,headache,cold",86.6,35.8,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Nausea,vomitting,abdominal pain,loss of appetite",51.3,36.9,None,ACT tablet,Recovered
+19,M ,"Body weakness, Nausea, Headache",69.9,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Headache,fever,vomitting,catarrh",46.1,36.2,None,"I.M Emal,I.V.F,I.V Promethazine",Admitted for further treatment
+19,M,"cough , headache, body weakness,fever,nausea,vomitting,loss of appetite ",57,36.7,None,ACT tablet,Recovered
+19,F,"Headache,fever,body pain,abdominal pain,dizziness,stooling,vomitting,anorexia",85.9,37,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Joint pain,fever,body weakness,headache",61.7,36.7,None,"I.M Arthemeter Lumefantrine , ACT tablet ",Recovered
+19,F,"Headache,dizziness,anorexia,fever,vomitting,stooling,abdominal pain",53.2,36.6,None,I.M Arthemeter Lumefantrine,Recovered
+20,M,"Fever,Headache,joint pain,sore throat, vomitting , nausea",76.3,36.2,None,"I.M Emal ,Fansidar tablet",Admitted for further treatment
+17,M,"Fever,body weakness,joint pain,headache,vomitting,nausea,sore throat,cough,catarrh",NIL,37.9,None,I.M Emal,Admitted for further treatment
+18,F,"Headache,body pain",52.1,36.8,None,I.M Emal,Admitted for further treatment
+19,F,"Fever,body pain,headache,sore throat",60.8,36.6,None,"I.M Arthemeter Lumefantrine,ACT tablet",Recovered
+18,F,"Catarrh,cough,joint pain,fever,body weakness,headache",49.8,36.2,None,"I.M Hydrocotisone,Arthemeter Lumefantrine tablet",Admitted for further treatment
+20,M,"Abdominal pain,body weakness,headache,stooling,vomitting,nausea,fever,sore throat",83.1,36.5,None,Arthemeter Lumefantrine tablet,Admitted for further treatment
+18,M,"Body weakness,joint pain, headache,fever",57.9,38.5,None,"I.M Arthemeter Lumefantrine,I.M Paracetamol,Arthemeter Lumefantrine tablet",Recovered
+20,F,"Headache,body pain",47.6,36.3,None,Arthemeter Lumefantrine tablet,Recovered
+17,M,"Heachache,vomitting,dizziness,body pain,stooling,fever,cough,catarrh",53.3,35.6,None,"I.V Promethazine,I.V.F,I.M Emal",Admitted for further treatment
+18,M,"Headache,body pain ,insomnia,cold",63.3,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+18,F,"Abdominal pain ,headache,dizziness,vomitting,stooling,fever,loss of appetite",52.8,35.6,None, ACT tablet,Recovered
+17,F,"Cough,catarrh,sorethroat,dyspnea,vomitting,dizziness,joint pain",55.2,35,None,Arthemeter Lumefantrine tablet,Recovered
+22,F,"Cattarh,body weakness,headache,cough",69.9,37.8,None,I.M Arthemeter Lumefantrine,Recovered
+17,M,"Fever,sorethroat, cough, headache,dizziness,vomitting,joint pain,catarrh",61.1,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+17,F,"Headache,body pain,vomitting,fever,stooling,cough,catarrh",NIL,39.5,None,I.M Arthemeter Lumefantrine,Admitted for further treatment
+19,F,"Headache,vomitting,cough,catarrh,abdominal pain,stooling,sore throat",49,36.5,None,"I.M Emal,Arthemeter Lumefantrine tablet",Recovered
+18,M,"Fever,headache,body weakness,catarrh,cough,sore throat",57.6,40.8,None,I.V Artesunate,Admitted for further treatment
+18,M,"Fever,cough,headache,catarrh",61.5,36.2,None,"I.M Emal,Fansidar",Recovered
+18,M,"Fever,cough,difficulty in breathing,chest pain,vomitting,sore throat",111.9,40,None,"I.M Emal,Arthemeter Lumefantrine tablet",Recovered
+19,M,"Fever,body pain,headache,nausea",61.2,38.3,None,I.M Emal,Admitted for further treatment
+18,F,"Headache,fever,body pain,sore throat,body weakness",61.2,37.4,None,Arthemeter Lumefantrine tablet ,Recovered
+22,F,"Headache,fever,body pain,body weakness",64.7,36.6,None,"I.M Emal,I.M Promethazine",Admitted for further treatment
+23,F,"Headache,fever,vomitting",85,37,None,"I.M Emal,I.M Promethazine,ACT tablet",Admitted for further treatment
+21,F,"Sore throat,fever,body pain,body weakness,cough,catarrh,headache",57.5,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+17,M,"Headache,fever,abdominal pain,sore throat,cough,catarrh,dizziness",58,36.1,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Fever,body weakness,back pain,headache,vomitting,nausea,cough,catarrh",57,38.3,None,"I.M Arthemeter Lumefantrine,Arthemeter Lumefantrine tablet ",Recovered
+17,M,"Fever,headache,body pain,vomitting",40.5,37.9,None,"I.M Arthemeter Lumefantrine,Arthemeter Lumefantrine tablet",Recovered
+25,F,"Cattarh,sore throat,headache,body weakness,nausea,vomitting",NIL,36.7,None,ACT tablet,Recovered
+19,F,"Fever,headache,chills,sore throat",54.2,37.4,None,Camosunate,Recovered
+19,F,"Headache,fever,body pain,cough",53.5,37.6,None,I.M Arthemeter Lumefantrine ,Recovered
+21,M,"Fever,vomitting,body weakness,",78.6,36.8,None,"I.M Arthemeter Lumefantrine ,I.V.F",Recovered
+19,F,"Abdominal pain,fever,headache,vomitting,nausea,",57.6,35.8,None,"I.M Arthemeter Lumefantrine, P Alaxin tablet",Recovered
+22,F,"Headache,fever",NIL,36.8,None,Fansidar,Recovered
+26,F,"Headache,fever,body pain",NIL,36,None,I.M Arthemeter Lumefantrine ,Recovered
+22,F,"Fever,headache,stooling",NIL,36.9,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Cattarh,headache,body pain,Insomnia",41.3,37,None,Arthemeter Lumefantrine tablet,Admitted for further treatment
+17,F,"Headache,body pain,body weakness",73.1,36.7,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Fever,headache,sore throat",NIL,38.8,None,Arthemeter Lumefantrine tablet,Recovered
+17,F,"Fever,headache,cold,nausea,vomitting,chest  pain",78.7,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+16,M,"Fever,headache,Joint pain,dizziness,chest pain",NIL,37.6,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"Dizziness,cough,catarrh,fever",60.5,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+22,M,"Headache,body weakness,fever,joint pain",58,38.9,None,Arthemeter Lumefantrine tablet,Recovered
+50,F,"Body weakness, Fever",58.7,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+24,F,"Headache,body pain,body weakness",NIL,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+52,M,"Body pain, loss of appetite,headahe",NIL,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+17,F,"Cattarh,cough,headache,fever,nausea,vomitting,abdominal pain",42.5,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+50,M,"Headache,joint pain,catarrh",69,35.4,None,Arthemeter Lumefantrine tablet,Recovered
+47,F,"Headache,joint pain,fatigue",NIL,35.8,None,Arthemeter Lumefantrine tablet,Recovered
+53,M,"Headache,body pain,fever,cough",NIL,37,None,Arthemeter Lumefantrine tablet,Recovered
+16,F,"Fever,headache",NIL,38.2,None,"Artesunate tablet,Fansider",Recovered
+16,M,"Headache,fever,Nausea,Loss of appetite,cold",NIL,37.2,None,I.M Arthemeter Lumefantrine ,Recovered
+17,M,"Headache,fever,epigastric pain",NIL,36.7,Ulcer,"I.M Emal,ACT tablet",Recovered
+39,F,"Headache,cold,cough,catarrh",61,36.4,None,I.M Arthemeter Lumefantrine,Recovered
+16,M,"Fever,headache",57.8,39.3,None,Arthemeter Lumefantrine tablet,Recovered
+23,M,"Headache,cold,cough,fever,insomnia",60.2,38.5,None,Arthemeter Lumefantrine tablet,Recovered
+18,M,"Fever,dizzines,cold,cough,catarrh",57.8,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"Body pain,headache,fever,dizziness,loss of appetite",72.1,35.7,None,Arthemeter Lumefantrine tablet,Recovered
+19,F,"Headache,fever,Loss of appetite,body weakness",65.4,37.9,None,Arthemeter Lumefantrine tablet,Recovered
+22,M,"Headache,Loss of appetite,abdominal pain,body pain",58.6,35.7,Ulcer,"I.M Emal,ACT Tab",Recovered
+17,F,"Headache,sore throat,Loss of appetite,cold,cough ,catarrh",60.4,35.5,None,Arthemeter Lumefantrine tablet,Recovered
+24,F,"Headache,fever,Nausea,Loss of appetite,cold",63.2,39.1,None,Arthemeter Lumefantrine tablet,Recovered
+41,F,"Fever,body pain,loss of appertite",70,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+19,M,"Fever,sorethroat, cough, abdominal pain,vomitting stooling",42.5,38.6,None,Arthemeter Lumefantrine tablet,Recovered
+18,M,"Cough,catarrh,sorethroat,vomitting,dizziness,abdominal pain, stooling ",47,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+36,M,"Headache, Cough, Fever, Sorethroat, Nausea",66,37.9,None,I.M Arthemeter Lumefantrine,Recovered
+17,M,"Cough,catarrh,sorethroat,Weakness, Body pain, stooling ",64,37.1,None,Arthemeter Lumefantrine tablet,Recovered
+36,F,"Body pains, Headache, Fever, Cough, Catarrh",63,36.1,None,I.M Emal,Recovered
+40,M,"Body pains, Headache, Fever, ",73,37.7,None,Arthemeter Lumefantrine tablet,Recovered
+22,M,"Fever, Body weakness ",64,39,None,Arthemeter Lumefantrine tablet,Recovered
+35,F,"Headache,fever,Nausea,Loss of appetite,cold",57.8,36.7,None,I.M Arthemeter Lumefantrine,Recovered
+23,F,"Headache,fever,Loss of appetite,body weakness",68.7,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+18,M,"Fever, Headache",50.2,37.7,None,"I.M Emal,I.V.F ",Recovered
+21,M,"Headache, Loss of appetite, Bitter taste in mouth, Dizziness, Back pain",NIL,36.5,None,I.M Arthemeter Lumefantrine,Recovered
+16,M,"Fever, Headache, Catarrh, Chest pain, Cough, Vomitting, Stooling, Chills",64.6,38.3,None,Arthemeter Lumefantrine tablet,Recovered
+19,F,"Body weakness, Cough, Fever",43.3,36.6,Ulcer,I.M Arthemeter Lumefantrine,Recovered
+19,F,"Headache, Cold, Joint pains, Vomitting, Loss of appetite ",41.8,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+16,F,"Headache, Abdominal pain, Body weakness, Nausea, Joint pain",48,37.3,None," I.M Arthemeter Lumefantrine,P-Alaxin tablet",Recovered
+18,M,"Fever, Headache",56.7,37.8,None,"I.M Arthemeter Lumefantrine,ACT tablet",Recovered
+16,M,"Body weakness, Nausea, Joint pain, ",56.4,37.5,None,Arthemeter Lumefantrine tablet,Recovered
+17,F,"Headache, Bitter taste in mouth, Body weakness, Fever",48.9,38,None,"I.M Arthemeter Lumefantrine,ACT tablet",Recovered
+18,M,"Fever, Body pains, Headache",54,36.7,None,ACT tablet,Recovered
+18,M,"Headache, vomitting, Body weakness ",63.5,36.6,None," I.M Arthemeter Lumefantrine,  ACT tablet",Recovered
+19,M,"Headache, Fever, Bitter taste in mouth, Vomitting, Abdominal pain, Stooling",63,36.1,None,"I.M Arthemeter Lumefantrine,  ACT tablet",Recovered
+19,F,"Fever, Headache ",46.8,38.7,None,I.M Emal,Recovered
+19,M,"Fever, Body pains, Headache, Nausea ",54.8,37.2,None,"I.M Arthemeter Lumefantrine, I.V.F, I.V Promethazine",Admitted for further treatment
+17,M ,"Headache, Fever, Nausea, Vomitting ",NIL,36.8,None,"I.M Emal, Arthemeter Lumefantrine tablet ",Recovered
+22,F,"Headache, Body pain, Fever, Chills, Bitter taste in mouth, Loss of appetite",68.5,36.5,Asthma,Arthemeter Lumefantrine tablet,Recovered
+20,M ,"Fever, Headache, Body pain",NIL,37.1,None,Arthemeter Lumefantrine tablet,Recovered
+21,M,"Headache, Cough, Catarrh, Body pain ",64.4,37,None,"I.M Arthemeter Lumefantrine ,Arthemeter Lumefantrine tablet",Recovered
+19,M,"Fever, Headache, Body pain, Bodyv weakness",56,36.7,None,Arthemeter Lumefantrine tablet,Recovered 
+19,F,"Headache, Abdominal pain, Vomitting, Fever",56.3,36.3,None,"I.M Emal, I.M ArthemeterLumefantrine",Recovered
+18,M ,"Fever, Headache",64,36.9,None,"I.M Emal,Arthemeter Lumefantrine tablet",Recovered
+18,M ,"Catarrh, Headache",67.7,36.6,None,P Alaxin tablet,Recovered
+18,M ,"Headache, Fever ",54,38,None,Arthemeter Lumefantrine tablet,Recovered
+21,M ,"Sorethroat, Fever, Catarrh, Body weakness, Body pain",69.8,36.6,None,ACT tablet,Recovered
+18,M ,"Headache, Chills, Fever",71,38.4,None,I.M Arthemeter Lumefantrine,Recovered
+17,F,"Fatigue, Loss of appetite, Abdominal pain",43.6,36.6,None," I.M Arthemeter Lumefantrine ,ACT tab ",Admitted for further treatment
+22,M,"Vomitting, Headache, Fever, Body pain, Cough, Catarrh",57.8,37.2,None,I.M Arthemeter Lumefantrine,Recovered
+18,M,"Fever, Headache, Vomitting, Stooling, Abdominal pain. Body weakness",NIL,35.5,None,I.M Emal,Recovered
+22,M,"Abdominal pain, Body pain, Fever, Headache",60.4,36.7,None,Arthemeter Lumefantrine tablet,Recovered
+19,F,"Body pain, Headache, Fever, Vomitting, Nausea, Abdominal pain ",53,36.5,None,ACT tablet,Recovered 
+19,M ,"Fever, Headache, Cough, Catarrh, Sorethroat",49.4,36.4,None,Arthemeter Lumefantrine tablet,Recovered 
+19,M ,"Sorethroat, Fever, Catarrh, Headache, Vomitting, Stooling",57,35.2,None ,Arthemeter Lumefantrine tablet,Recovered
+16,M ,"Headache, Vomitting, Fever, Loss of appetite",55.7,36.6,None,I.M Arthemeter Lumefantrine,Recovered 
+19,M,"Headache, Body pain, Fever",53.3,36.8,None, I.M Arthemeter Lumefantrine,Recovered
+18,F,"Headache, Body pain, Fever, Chills, Nausea, Loss of appetite, Body weakness ",53,35.9,None,Arthemeter Lumefantrine tablet,Recovered
+18,M,"Headache, Fever, Cold, Bitter taste in mouth, Sorethroat, Abdominal pain, Nausea",55,37.2,None," I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+19,F,"Headache, Sorethroat, Fever",90.8,36.2,None,Arthemeter Lumefantrine tablet,Admitted for further treatment
+19,M,"Headache, Body pain, Stomach ache",76,36.4,None,"I.M Arthemeter Lumefantrine ,Arthemeter Lumefantrine tablet",Recovered
+19,M,"Headache, Fever, Vomitting, Abdominal pain, Stooling, Cough, Catarrh, Sorethroat",NIL,36.5,None,I.M Arthemeter Lumefantrine,Admitted for further treatment
+18,F,"Headache,  Body weakness, Vomitting ",69.5,36.3,None,I.M Arthemeter Lumefantrine,Recovered
+19,M,"Fever, Headache, Backpain, Cold",64.1,37.8,None,I.M Arthemeter Lumefantrine,Recovered
+18,M,"Fever, Sorethroat, Headache, Cough, Catarrh",59.7,36.7,None,"I.M Arthemeter Lumefantrine,Arthemeter Lumefantrine tablet",Recovered
+18,M,"Fever, Headache, Body pain, Chills, Nausea, Vomitting, Cough, Catarrh",52.9,37.4, None,Arthemeter Lumefantrine tablet,Recovered
+18,M,"Fever, Body pain, Headache",59,36.3,None,Arthemeter Lumefantrine tablet,Recovered
+15,M ,"Fever, Headache, Vomitting, Chills, Body weakness, Cough, Catarrh, Abdominal pain",57.7,37.1,Diabetes,Arthemeter Lumefantrine tablet,Recovered
+19,M,"Fever, Headache, Catarrh, Vomitting, Body pain, Sorethroat",58.6,36.7,None,I.M Arthemeter Lumefantrine,Recovered
+19,F,"Headache, Fever, Body weakness, Back pain",52,38.1,None,I.M Arthemeter Lumefantrine,Recovered
+20,F,"Body pain, Body weakness, Bitter taste in mouth",50.5,36.5,None,"P- Alaxin, Amoxicillin, PCM tab",Recovered 
+19,F,"Body pain, Headache, Fever, Vomitting ",59,36.4,Asthma,I.M Arthemeter Lumefantrine,Recovered
+18,M ,"Fever, Cough, Headache, Body pain, Vomitting, Sorethroat, Stooling",66,37.6,None," I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+19,M ,"Headache, Fever, Vomitting, Abdominal pain, Sorethroat, body weakness, Loss of appetite",84.9,39.4,None," I.M Arthemeter Lumefantrine,  ACT tab,  Ciprofloxacin",Recovered
+17,M,"Fever, Headache, Stooling, Vomitting, Abdominal pain, Joint pain, Chills, body weakness",46,36.5,None,I.M Emal,Recovered
+20,M,"Cold, Headache, Body weakness, Body pain, Stooling",70.5,37,None,"ACT tab, Metronidazole",Recovered
+17,M,"Fever, Headache, Body weakness. ",77,38,None,"ACT tab, I.M Arthemeter Lumefantrine",Recovered
+17,F,"Vomitting, Headache, Fever, Body pain",66,36.9,None, I.M Arthemeter Lumefantrine,Recovered
+41,M,"Nausea, Vomiiting, Fever, Headache, Stooling, Cough, Catarrh",NIL,35.2,None,Arthemeter Lumefantrine tablet,Recovered
+25,F,"Nausea, Vomiiting, Fever, Headache ",67,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"Fever, Headache",65.6,35.6,None,Arthemeter Lumefantrine tablet,
+18,F,"Bitter taste in mouth, Catarrh, Headache",55.2,35.4,None,"I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+21,M,"Fever, Cough, Headache, Body pain, Vomitting, Sorethroat, Stooling",66,37.4,None," I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+22,F,"Headache, Fatigue, Body pain, Body weakness",65.7,37,None,Arthemeter Lumefantrine tablet,Recovered
+19,M ,"Headache,  Body weakness, Vomitting ",65,36.6,Asthma ,Arthemeter Lumefantrine tablet,Recovered
+19,F,"Headache, Body pain, Fever, Chills, Nausea, Loss of appetite, Body weakness ",50,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+22,M,"Headache, Fever, Body weakness, Bitter taste in mouth",70,,None,Arthemeter Lumefantrine tablet,Recovered
+35,M ,"Bitter taste in mouth, Catarrh, Headache",65.5,36.3,None,"I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+23,F,"Fever, Body weakness, Fatigue, Headache ",65.3,36.9,None,"I.M Arthemeter Lumefantrine, Arthemeter Lumefantrine tablet",Recovered
+40,F ,"Body pains, Body weakess, Catarrh",65,36.7,None ,P- Alaxin,Recovered
+38,F,"Headache, Bitter taste in mouth, Body weakness, Fever",67,35.5,None, Arthemeter Lumefatrine tab,Recovered
+38,F,"Headache, Body pain, Cough, Chest pain ",NIL,38.1,None,"I.V.F,  I.V Arthemeter Lumefantrine",Recovered
+27,F,"Headache, Vomitting, Fever, Loss of appetite",68.9,36.5,None,"I.M Emal, Amatem soft gel",Recovered
+18,M ,"Fever, Catarrh, Vomitting ",60,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Fever, Body pain, Body weakness  ",65.7,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+41,F,"Headache, Body pain, Body weakness, Cough",86.7,36.6,None,"I.M Arthemeter Lumefantrine, ACT tab",Recovered 
+30,F,"Headache, Body weakness, body pain",NIL,36.5,None,I.M Emal,Recovered
+37,F,"Headache, Body pain, Body weakness ",70,36.4,None,I.M Arthemeter Lumefantrine,Recovered
+18,F,"Headache, Fever, Nausea, Body pain, Body weakness",92,36.1,None,"I.M Emal, PCM tab, ACT tab",Recovered
+20,M,"Headache, Cough, Fever, Catarrh, Sorethroat",56,36.5,None,I.M Promethazine ,Recovered
+18,M,"Abdominal pain, Headache, Fever, Body weakness",50.9,36.1,None,I.M Emal,Recovered
+26,M,"Body pain, Body weakness, Headache ",72,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"Headache, Fever",48.2,36.8,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"Headache, Fever ",48.3,36.4,None,"I.M Emal,  Arthemeter Lumefantrine tablet",Recovered
+17,M,"Fever, Headache, Bofy weakness",68.7,38.9,None,I.M Arthemeter Lummefantrine,Recovered
+18,M,"Headache, Fever, Vomitting, Stooling, Cough, Sorethroat, Catarrh, Abdominal pain ",110.1,36.7,None,Arthemeter Lumefantrine tablet,Recovered
+18,M ,"Fever, Headache, Catarrh, Loss of appetite, Abdominal pain, Vomitting, Stooling",77,36.5,None,P-Alaxin,Recovered
+22,M,"Catarrh, Cough, Fever, Rashes on the neck",77.9,37.1,None,Arthemeter Lumefantrine tablet,Recovered
+19,F,"Cough, Catarrh, Headache, Abdominal pain",68.9,36.2,None,Arthemeter Lumefantrine tablet,Recovered
+24,F,"Body pain, Headache",71,36.4,None,"P-Alaxin,  I.M Emal",Recovered
+20,M,"Fever, Cold, Headache, Cough, Vomitting, Abdominal pain",69.1,36.7,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"Fever, Headache, Stooling, Sorethroat, Cough, Catarrh, Epigastric pain",86.7,37.7,None,"I.M Arthemeter Lumefantrine, I.M Promethazine",Recovered
+18,M,"Fever, Dizziness, Cough, Catarrh",81,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"catarrh, cough, dizziness, weakness, fever, headache",51.3,36.3,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"headache, body pain, weakness, stooling, vomiting, nausea",56.6,37,None,P-Alaxin tablet,Recovered
+21,F,"catarrh, cough, sorethroat, nausea, vomiting, abdominal pain",63.6,37,None,"I.M Emal,ACT tablet",Recovered
+17,F,"headache, cough, catarrh, fever, vomiting, sorethroat,  chest-pain",48.8,37.6,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"fever, headache, vomitting, body pain, abdominal pain",49.3,36.5,None,P-Alaxin tablet,Recovered
+19,M,"abdominal pain, watery stooling, vomitting, fever, headache, cough,",NIL,36.4,None,"I.V Ciprofloxacin, I.V Metronidazole",Admitted for further treatment
+23,M,"headache, fever, diziness, cough, catarrh, sorethroat, vomiting, nausea",66.9,36.3,None,P-Alaxin tablet,Recovered
+17,M,"headache, fever, reduced appetite, nausea, bitter taste in the mouth",NIL,38.9,None,I.V Arthemeter lumefantrine,Admitted for further treatment
+19,F,"fever, headache, cold, nausea, vomiting, cough, catarrh, stooling",72,36.5,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"catarrh, sorethroat, headache",64.3,36,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"fever, headache, body pain, nausea, vomitting, catarrh, abdominal pain, cough",NIL,36.1,None,Arthemeter lumefantrine tablet,Not recovered
+18,F,"headache, body pain, herpes of the lips, fever",66.2,37.1,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"Headache, Fever, Sore throat, joint pains, cough, catarrh",52,35.8,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"cold, catarrh, fever, joint-pain",55.7,38.4,None,Arthemeter lumefantrine tablet,Recovered
+19, F,"catarrh, fever, headache",NIL,35.4,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"ill looking, fever, headache, feeble",69.9,39.3,None,Arthemeter lumefantrine tablet,Recovered
+21,F,headache,NIL,36.4,None,I.M Emal,Recovered
+22,F,"fever, headache, joint-pain",NIL,36.9,None,Arthemeter lumefantrine tablet,Recovered
+24, F,"headache, fever, vomiting, diarrhea, cough, catarrh, sorethroat, abdominal pain",37.5,36.9,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"abdominal pain, chest pain",55.5,36.2,None,Arthemeter lumefantrine tablet,Recovered
+24,F,"drowsy, constant weakness, bitter mouth, evening fever, blury vision,",73.2,,None,Fansidar,Recovered
+18,F,"fever, headache, weakness, dyspnoea, chest-pain, cough, catarrh, sorethroat, nausea, vomiting",51.5,35.9,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"sorethroat, cough, painful swallowing, inflamed tonsils",87.4,36.8,None, I.M Emal,Recovered
+17,F,"body pain, headache, fever, weakness, nausea, vomiting, cough, catarrh, sorethroat, dizziness",63.9,37.8,None," I.V.F, I.M Emal",Admitted for further treatment
+20,M,"loss of appetite, headache, fever, cough, catarrh, sorethroat",NIL,39.2,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"Abdominal pain, watery stool, headache, body aches, bitter taste in mouth",51.9,36.9,None,ACT tablet,Recovered
+20,F,"Joint pain, headache, fever, weakness, dizziness, cough, catarrh, vomiting, nausea, sore throat, anorexia",43.6,36,None,Arthemeter lumefantrine tablet,Recovered
+22,M,"Headache, cough, catarrh ",62.3,37,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"Headache, Fever",54.2,36.2,None,Arthemeter lumefantrine tablet,Recovered
+18,F," Body Pain, Abdominal Pain, Headache, Fever",46.7,37.7,None,"Arthemeter lumefantrine tablet, I.M Arthemeter Lumefantrine",Recovered
+23, F,"Sore throat, Headache",48.2,36.3,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"Headache, Fever, Back Pain, Vomiting",47.8,36.7,None,"I.M Arthemeter Lumefantrine,  ACT tablet",Recovered
+20,F,"Headache, Cough, Catarrh, Fever ",70.5,35.1,None,Arthemeter lumefantrine tablet,Recovered
+17,M,"Abdominal pain ,body weakness, headache, fever, watery stool,  cough",83.3,36,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"Headache, Dizziness, Nausea, Cough",67.4,36.5,None,Arthemeter lumefantrine tablet,Recovered
+22,M,"seizure, unconcious, ",43.9,36.8,None,"I.V saline, I.M Emal ",Recovered
+19,F,"fever, headache, loose stool, abdominal pain,",57.5,35.6,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"body weakness, fever, chills, vomiting, body pain",66.4,37.2,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"headache, body pain, cough, catarrh",32.2,37.5,None,I.M Emal,Recovered
+21,M,"sorethroat, headache, fever",59.5,37.1,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"headache, fever, vomiting ",57.5,35.2,None,Arthemeter lumefantrine tablet,Recovered
+16, F,"Loss of conciousness, headache, ",78.3,36.5,None,ACT tablet,Recovered
+17,F,"weakness, nausea, vomiting, cough, catarrh, sorethroat",65.8,36.5,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"vomiting, stooling, cough, catarrh, sorethroat, abdominal pain",39.6,35.3,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"joint pain, headache, nausea, vomiting, diziness, reduced appetite, weakness, fever",98.8,37.8,None,Arthemeter lumefantrine tablet,Not recovered
+20, F,"weakness, body pain, fever, headache, dizziness, joint pain",53.3,36.7,None,Arthemeter lumefantrine tablet,Recovered
+17,F,chest pain,52.2,,None,Arthemeter lumefantrine tablet,Not Recovered
+20,F,"Abdominal Pain, body weakness",62.8,,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"weakness, body pain, fever, headache, dizziness, joint pain",54.1,37.3,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headache, bloody vomitting, fever",63.7,39.8,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"headache, weakness, joint pain, bitter taste, fever",73.2,36.1,None,ACT tablet,Recovered
+19,F,"fever, weakness, headache, nausea, vomitting",38.3,36.9,None,ACT tablet,Recovered
+20,F,"headache, fever, poor appetite, fever, chills, vigor",158,37,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"headache, fever, abdominal pain,nausea, reduced appetite, loose tool",89.1,36.7,None,I.M Emal,Recovered
+21,M,"joint pain, headache, cough, runny nose",74.6,37.4,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"watery stool, headache, fever",74.2,35.9,None,Arthemeter lumefantrine tablet,Recovered
+16,M,"headache, body pain",NIL,36.7,None,P-Alaxin,Recovered
+21,M,"headache, weakness",NIL,36,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"headache, joint pain, nausea, poor sleep",51.4,,None," I.M Emal, ACT tablet",Recovered
+17,M,"Shivering, vomiting, headache,weakness",57.9,38,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"cold, headache, sorethroat",58.3,36.5,None,ACT tablet,Recovered
+18,M,"headache, fever, weakness",54.5,,None,"Emal, ACT tablet",Recovered
+21,F,"fever, chills",66,36.6,None,I.M Emal,Recovered
+18,F,"vomiting, weakness, loss of appetitie, abdominal pain",55,36.9,None,ACT tablet,Recovered
+19,M,"fever, weakness, joint pain, headache, cough, nausea",56.2,35.8,None,Arthemeter lumefantrine tablet,Recovered
+17,M,"catarrh, sorethroat",64.5,36,None,P-Alaxin,Recovered
+19,F,"headache, catarrh, cough, fever, cold",NIL,,None,ACT tablet,Recovered
+17,M,"headache, stomachache, diziness, stooling, fever, jointpain, sorethroat",54.2,36.2,None,Arthemeter lumefantrine tablet,Recovered
+16,M,"headache,bodypain, abdominal pain, stooling, fever",51.7,36.4,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"fever, headache, weakness",82.4,35.7,None,ACT tablet,Recovered
+18,M,"bitter taste, loss of appetite, headache, weakness",66.8,36.4,None,ACT tablet,Recovered
+17,F,"sorethroat, body weakness, fever, headache",75.7,36.2,None,Arthemeter lumefantrine tablet,Recovered
+24,M,"headache, fever, weakness, abdominal pain",61.4,37.7,None,Arthemeter lumefantrine tablet,Recovered
+19,F ,"headache, reduced appetite, chills",NIL,37.2,None,ACT tablet,Recovered
+20,F,"abdominal pain, vomiting",NIL,36.4,None, Cyproflaxin,Recovered
+19,F,"fever, joint pain, body weakness, sorethroat, vomiting, catarrh",66.2,38,None,"I.M Arthemeter lumefatrine,P-Alaxin",Recovered
+19,F,"weakness, poor appetite, headache, body pain",49.8,37,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"headache, weakness, vomiting, loose stool",50.1,36.4,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"fever, body pain, headache",55,38.8,None,ACT tablet,Recovered
+19,M,"weakness, headache, fever",60.4,38.9,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"headache, body pain, fever, body weakness, sore throat, vomiting, abdominal pain",54.4,36.4,None,ACT tablet,Not Recovered
+19,F,"headache,nasuea, bone pain, chest pain",101.8,35.9,None,ACT tablet,Recovered
+20,M,"fever, headache, body weakness, joint pain, cough",70.1,36.5,None,"Arthemeter lumefatrine, Paracetamol",Recovered
+17,M,"vomiting, headache, fever, weakness",61.7,37.9,None,"I.M Emal, Arthemeter lumefantrine tablet",Recovered
+20,M,bitter taste in mouth,NIL,36.2,None,Arthemeter lumefantrine tablet,Recovered
+17,M,left loin pain,66.1,,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"cough, fever, vomiting",87.6,38.5,None,ACT tablet,Recovered
+21,M,"headache, fever, nausea, body pain",96.9,36.4,None,Arthemeter lumefantrine tablet,Recovered
+25,F,"headache, chest pain radiating to the arm, fever headache, body pain, catarrh, cough",58.5,36.7,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"headache, fever",97.6,37.4,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"cattrh, headache, fever",70.9,36.2,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"fever, headache, sorethroat",60.3,36.7,None,Arthemeter lumefantrine tablet,Recovered
+22,M,"headache, fever, nausea, abdominal pain",59.7,36.7,None,Arthemeter lumefantrine tablet,Not recovered
+16,M,"fever, cold, headache",65.3,37.7,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"abdominal pain, increased vaginal discharge",49.7,36,None,Arthemeter lumefantrine tablet,Recovered
+23,F,"fever, headache, weakness, joint pain",80.6,36.7,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"headache, vomiting, stooling, fever, weakness",79.4,39.6,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"headache, body pain, weakness, vomiting",67.6,36.7,None,Arthemeter lumefantrine tablet,Recovered
+26,M,"chest pain, headache,dry cough, sorethroat",53.8,36.5,None,I.M Emal,Recovered
+21,M,"headache, chills, body pain, nausea",55.3,36.8,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headache, body pain, fever, weakness",NIL,36.4,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"fever, body pain, bone pain",47.6,37.1,None,ACT tablet,Recovered
+19,M,"Headache, body pain, fever",80.5,38.7,None,I.V Saline,Recovered
+20,F,"headache, fever, body pain, weakness, loss of appetite, bitter taste in mouth, nausea",64.8,36.9,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"headache, joint pain",47.8,37.1,None,P-Alaxin,Recovered
+19,F,"headache, dizziness, irritability",81.1,36,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"headache, weakness, fever, watery stool",46.7,36.3,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"heache, bitter taste, body pain, body weakness",42.5,36.9,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"headache, weakness, fever, cough, catarrh, sorethroat",79.8,37.6,None,"I.M Emal, Fansdiar",Recovered
+16,F,"headache, fever, cold",52.6,37.2,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"abdominal pain, fever, headache",56.9,36.9,None,"I.V Ciprofloxacin,I.V Metronidazole",Recovered
+26,M,"back pain, headache, fever",101.1,36.6,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"fever, body pain, chest pain, abdominal pain",70.3,36.1,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"sorethroat, sore tongue, catarrh, bach pain, weakness, bitter taste in mouth",61.1,36.8,None,ACT tablet,Recovered
+17,F,"joint pain, headache, fever, weakness, nausea",60.5,38.1,None,Camosunate tablet,Recovered
+17,F,Loss of conciousness,44.4,36.9,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"abdominal pain, vomiting, loose stool",86.6,35.3,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"Diarrhea, vomiting, headache, fever",54.5,36.8,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"weakness, left leg pain, headache, fever",71.8,35.7,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"headache, cold, nausea, cough",NIL,37.1,None,Arthemeter lumefantrine tablet,Recovered
+23,M,"headache, back pain, body weakness, fever, nausea",48.1,36.8,None,Arthemeter lumefantrine tablet,Recovered
+17,M,"headache, cough, weakness, bitter taste",50.3,34.8,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"Headache, Fever ",65.6,36.4,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"Fever, Sore throat, Mouth sores, Weakness, Body pain, Headache, ",81.6,36.4,None,Promethazine,Recovered
+17,F,"Fever, Headache, Runny nose, Loose stool, Abdominal pain",75.7,40,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"Weakness, Chest pain, Headache",89,36.3,None,Arthemeter lumefantrine tablet,Recovered
+15,F,"Fever, Headache, Abdominal pain, Weakness",53.5,36.1,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"Headache, Cold, Fever, Abdominal pain",72.7,36.7,None,Arthemeter lumefantrine tablet,Recovered
+17, F,"Fever, Weakness, Joint pain, dizziness, nausea, headache",61.7,37.1,None,Arthemeter lumefantrine tablet,Recovered
+22,F,"Headache, Joint pain, Fever, Weakness",50.4,36.5,None,Arthemeter lumefantrine tablet,Recovered
+21, M,"Body weakness, Headache",68.2,36.4,None,Arthemeter lumefantrine tablet,Recovered
+20,F,No symptoms recorded,40.1,35.3,None,Arthemeter lumefantrine tablet,Recovered
+24,F,"Fever, Headache, Cough, Joint aches, Bitter taste in mouth",52.8,37.4,None,Camosunate,Recovered
+17,M,"Chiils, Headache, Fever",50.8,36.4,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"Weakness, Dizziness, Headache",NIL,36.5,None,P-Alaxin,Recovered
+17,F,"Dizziness, Headache",52.9,36,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"Sore throat, Headache, Weakness",52,35.8,None,Arthemeter lumefantrine tablet,Recovered
+42,F,"lower back pain, body pain",NIL,37.1,None,Arthemeter lumefantrine tablet,Recovered
+24,F,"headache, stooling, nausea",96.6,35.6,None,Arthemeter lumefantrine tablet,Recovered
+37,M,"fever, body pain, headache, body rashes",NIL,35.5,None,Arthemeter lumefantrine tablet,Recovered
+18,F,nausea,NIL,36.1,None,Camosunate tablet,Recovered
+48,M,"body pain, slight headache, elevated High Blood pressure",81,36.3,None,Fansidar,Not recovered
+48,F,"headache, dizziness, poor sleep",61.6,35.5,None,Arthemeter lumefantrine tablet,Recovered
+24,M,"headache, fever, nausea",76.3,36.1,None,Arthemeter lumefantrine tablet,Recovered
+37,F,"headache, cough, vaginal itchiness",NIL,36.2,None,Arthemeter lumefantrine tablet,Recovered
+40,M,"headache, body pain, mild cough, catarrh",NIL,39.6,None,Arthemeter lumefantrine tablet,Recovered
+15,F,"catarrh, sorethroat",NIL,37.1,None,Arthemeter lumefantrine tablet,Recovered
+57,M,"cough, catarrh, poor sleep",75.4,36.1,None,Arthemeter lumefantrine tablet,Recovered
+45,F,"weakness, joint pain, headache",73,38.9,None,ACT tablet,Recovered
+60,M,"fever, weakness, catarrh",78,37.1,None,Arthemeter lumefantrine tablet,Recovered
+50,F,joint pain,NIL,35.7,None,Arthemeter lumefantrine tablet,Recovered
+36,F,"catarrh, headache, fever, sorethroat",52,36.4,None,Arthemeter lumefantrine tablet,Recovered
+46,M,"headache, body pain",67,36.8,None,Arthemeter lumefantrine tablet,Recovered
+37,F,"body ache, fatigue, dizziness, fever, itchy vulva",NIL,36.7,None,Arthemeter lumefantrine tablet,Recovered
+30,F,fever,50,37.2,None,Arthemeter lumefantrine tablet,Recovered
+42,F,"headache, joint pain, back pain, abdominal pain, diarrhea",95.9,36.9,None,P-Alaxin,Recovered
+36,F,"headache, body pain, poor sleep, chills",73,36,None,Arthemeter lumefantrine tablet,Recovered
+39,M,"tiredness, vomiting",NIL,36.4,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"headache, fever, weakness, body pain, nausea, vomiting",59.7,37.6,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"rashes on face and lips, herpes ",48.6,36.4,None,ACT tablet,Recovered 
+19,F,"body pain, fever, weakness",54.6,36.9,None,Arthemeter lumefantrine tablet,Recovered
+19, M,"headache, fever, cold, backpain, lost of appetite, better taste, weakness",75,37.5,None,Arthemeter lumefantrine tablet,Recovered
+21,M,"headache, fever, vomiting, sour throat",71,38.4,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"body ache, fever, chills, nausea",53,36.9,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"fever, vomiting, headache, lost of appetite",81.8,36.3,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"weakness, headache, fever",58,39.6,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headache, fever, weakness, vomiting, nausea, bodyache",110,36.6,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"fever, sorethroat, catarrh",69.5,36.6,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headache, fever, bodypain catarrh",114,36.4,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"catarrh, sorethroat, cough, weakness",71.9,36,None,ACT tablet,Recovered
+18, M,"headache, weakness, sorethroat, bodypain",NIL,36.6,None,Arthemeter lumefantrine tablet,not recovered
+17,M,"headache,fever, bodypain, eyepain, weakness",53,38.1,None,ACT tablet,Recovered
+19,M,"headache, catarrh, cough, cold, weakness",62,36.8,None,ACT tablet,Recovered
+17,F,"joint pain, bodyache. chestpain, cough, catarrh, weakness, vomiting",65,37.6,None,ACT tablet,Recovered
+18,F,"catarrh, cough, fever, watery stool",56.9,35.9,None,ACT tablet,Recovered
+17,F,"headache, body ache, dizziness, palpitation, skin rash",60,36.7,None,Arthemeter lumefantrine tablet,Recovered
+17,F,"fever, headache, weakness, bodypain, vomiting, nausea",68.6,36.6,None,Arthemeter lumefantrine tablet,Recovered
+19,F,"bone pain, itching, headache",73.5,36.2,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"headache, fever, weakness, bodypain, nausea, dizziness, lost of appitite",50,36.1,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headaches, fever, cough, catarrh",60.2,39,None,Arthemeter lumefantrine tablet,Recovered
+20,F,"diziness, headache, fever, vomiting",42,37.4,None,"I.V.F,I.M Emal",Recovered
+17,F,"fever, headache, bodypain, chills, diziness, vomiting",77,,None,"IV saline,I.M Emal",Recovered
+16,M,"diziness, weakness, sorethroat, catarrh",126.6,36.3,None,Arthemeter lumefantrine tablet,Recovered
+16,F,"bodypain, vomiting, diarrhea, cough, anorexia, chestpain, adominal pain",55,36.1,None,ACT tablet,Recovered
+20,M,"headache, bodypain, fever, nausea",NIL,56.9,None,"I.M Emal,Arthemeter lumefantrine tablet ",Recovered
+17,M,"fever, headache, weakness",72.5,36.9,None,ACT tablet,Recovered
+18,F,"headache, fever, abdominal pain, catarrh, cough, bitter taste",60.5,36.7,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"Sore throat, catarrh, headache, weakness",51.5,,None,ACT tablet,Recovered
+19,M,"Sore throat, catarrh, headache",60,36.8,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"fever, abdominal pain, headache, weakness, cough, nausea",64,36.6,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"abdominal pain, sorethroat, headache, cough",70.2,36.3,None,Arthemeter lumefantrine tablet,Recovered
+19,M,"headache. fever, weakness",68.2,36.7,None,Arthemeter lumefantrine tablet,Recovered
+18,F,"catarrh, sorethroat, headache, cough",60.4,36.5,None,Arthemeter lumefantrine tablet,Recovered
+21,F,"catarrh, sneezing, fever",79.2,36.4,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"headache, weakness, weakness, fever, acute diarihea",NIL,37.8,None,Arthemeter lumefantrine tablet,Recovered 
+16,F,jointpain,47,36.3,None,"I.M Emal, ACT tablet",Not recovered
+19,F,"vomiting, headache, eoigastric pain, fever, loss of appitite",55,36.6,None,Arthemeter lumefantrine tablet,Not recovered
+20,M,"headache, sorethroat, weakness, catarrh, cough",71,36.4,None," P-Alaxin, I.V Arthemeter lumefantrin",Recovered
+18,M,"bodypain, fever, headache",54.8,38.2,None,Arthemeter lumefantrine tablet,Recovered
+20,M,"headache, weakness",73.3,37.2,None,Arthemeter lumefantrine tablet,Recovered
+18,M,"bodypain, fever, headache, chills",71,36.6,None,Arthemeter lumefantrine tablet,Recovered
+47,F,"catarrh, cough, fever, bitter taste, lost of appetite",NIL,36.8,None,ACT tablet,Recovered
+39,F,"cough, catarrh, bodypain, headache",NIL,36.7,None,Arthemeter lumefantrine tablet,Recovered 
+40,F,"bodypain, headache, catarrh, fitigue, lost of appitite",NIL,36.8,None,P-Alaxin tablet,Recovered
+37,M,"headache, catarrh, fever, cough, chestpain",60.5,36.7,None,Arthemeter Lumefantrine tablet,Recovered
+48,F,"bodypain, headache, weight loss, nausea, cough",80,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+17,M,"headache, catarrh, cough, bodypain",67,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+17,F,"headache, diziness, vomiting",66,36.6,None,"I.V.F,Arthemeter lumefantrine tablet",Recovered
+17,F,"lost of appitite, abdominal pain, headache, chills, epigastric pain",95,37.5,None,Arthemeter Lumefantrine tablet,Recovered
+16,M,"fever, weakness, vomiting",70,37.6,None,Arthemeter Lumefantrine tablet,Recovered
+19,F,"fever, weakness, lost of appitite, catarrh",62,37.6,None,"ACT tablet, I.V.F",Not recovered
+17,F,"fever, headache, bitter taste",53,36.2,None,Arthemeter Lumefantrine tablet,Recovered
+16,F,"headache, fever, bodypain ",76,37.5,None,"I.M Emal, Arthemeter lumefantrine",Recovered 
+17,M,"headache, weakness, fever, sorethroat, nausea",44,36.6,None,Arthemeter Lumefantrine tablet,Recovered 
+16,M,"fever, headache, vomiting,",69,37.2,None,"I.V.F, Arthemeter lumefantrine",Recovered
+19,M,"headache, fever, weight loss, loss of appitite, sorethroat",63,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+16,F,"weakness, headache, bodypain",61.5,36.9,None,Arthemeter Lumefantrine tablet,Recovered
+43,F,"bodypain, boil in the ear, fever",NIL,36.2,None,Camosunate,Recovered
+49,M,"headache, body ache, catarrh",NIL,36.5,None,ACT tablet,Recovered
+51,F,"chestpain, headache, bobypain, bitter taste, sorethroat",NIL,36.4,None, ACT tablet,Not recovered
+48,F,"bodypain, headache, nausea, vomiting",64,36.5,None,Arthemeter Lumefantrine tablet,Not recovered
+51,F,"headache, diarrhea",NIL,37.5,None,"IVF, I.M Emal,ACT tablet",Recovered
+36,F,"purging, headache, bodypain",75,35.4,None,Arthemeter Lumefantrine tablet,Recovered
+46,M,"fever, headache, bodypain, catarrh",65,36.5,None,"I.M Emal,Arthemeter Lumefantrine tablet",Recovered
+42,F,"headache, nausea, lost of appitite, body ache, fever, chills",NIL,36.4,None,P-Alaxin,Recovered
+40,F,"headache, poorsleep, bodypain, fever",NIL,36.3,None,Arthemeter Lumefantrine tablet,Recovered
+43,M,"cough, sorethroat, jointpain, chestpain, loss of appetite, weakness, diziness, fever",68,37.1,None,Arthemeter Lumefantrine tablet,Recovered
+40,M,"weakness, itching eye, body pain, bitter taste",69,36.4,None,ACT tablet,Recovered
+53,M,"bobypain, elivated Bp",101,36.6,None,Arthemeter Lumefantrine tablet,Recovered
+50,M,"bitter taste, fever, body weakness",72.5,36.5,None,Arthemeter Lumefantrine tablet,Recovered
+42,F,"fever, weakness, bodypain, nausea",57,,None,ACT tablet,Recovered
+50,F,"headache, fever, abdominal pain, catarrh, nausea",63,36.4,None,ACT tablet,Recovered
+47,F,"lost of appitite, headache, backpain",NIL,36.6,None,ACT tablet,Recovered
+32,F,"headache, catarrh, weakness",71,36.4,None,Arthemeter Lumefantrine tablet,Recovered
+20,F,"headache, jointpain, fever, cough, sorethroat",51.2,36,None,Arthemeter Lumefantrine tablet,Recovered
+17,M,"headache, nausea, abdominal discomfort",72.6,36.3,None,Arthemeter Lumefantrine tablet,Recovered
+20,M,"eye ache, fiver, headache",NIL,37.3,None,ACT tablet,Recovered
+18,F,"fever, headache, weakness, bodyache",46.5,37.9,None,"I.M Arthemeter Lumefantrine,ACT tablet",Recovered
+17,M,"headache, fever, abdominal pain, catarrh, nausea",53.5,33.3,None,Arthemeter Lumefantrine tablet,Recovered 
+18,M,"headache,fever, vomiting, ",78,36.7,None,Arthemeter Lumefantrine tablet,Not recovered
+18,F,"mouthsore, catarrh, itching, body pain",50,36.6,None, ACT tablet,Recovered
+36,F,"backpain, body weakness, fever",87.7,36.5,None,"I.M Arthemeter Lumefantrine, ACT tablet",Recovered
+17,F,"weakness, headache, fever, stool, abdominal pain",71.5,36.7,None,Arthemeter Lumefantrine tablet,Recovered 
+17,M,"fever, chill, bodyache, headache",51,37.4,None,Arthemeter Lumefantrine tablet,Recovered 

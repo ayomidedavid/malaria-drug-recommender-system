@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malaria Drug Recommender</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        .checkbox-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 20px;
+        }
+        .checkbox-item {
+            min-width: 160px;
+            display: flex;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Malaria Drug Recommender</h1>
+        <form action="/predict" method="post">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="AGE" required><br>
+            <label for="gender">Gender:</label>
+            <select id="gender" name="GENDER" required>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select><br>
+            <label for="weight">Weight (kg):</label>
+            <input type="number" id="weight" name="WEIGHT(kg)" step="0.1" required><br>
+            <label for="temp">Temperature (°C):</label>
+            <input type="number" id="temp" name="TEMPERATURE(degreec)" step="0.1" required><br>
+            <label for="issues">Underlying Issues:</label>
+            <select id="issues" name="Underlying Issues">
+                <option value="none">None</option>
+                <option value="asthma">Asthma</option>
+                <option value="diabetes">Diabetes</option>
+                <option value="ulcer">Ulcer</option>
+            </select><br>
+            <label>Symptoms (select all that apply):</label><br>
+            <div class="checkbox-group">
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="abdominal"> Abdominal Pain</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="appetite"> Loss of Appetite</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="bitter"> Bitter Taste</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="body"> Body Pain</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="catarrh"> Catarrh</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="chest"> Chest Pain</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="cold"> Cold</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="cough"> Cough</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="dizzinesss"> Dizzinesss</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="fever"> Fever</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="headache"> Headache</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="joint"> Joint Pain</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="nausea"> Nausea</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="pain"> Back Pain</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="sorethroat"> Sorethroat</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="stooling"> Stooling</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="vomiting"> Vomiting</div>
+                <div class="checkbox-item"><input type="checkbox" name="SYMPTOMS" value="weakness"> Weakness</div>
+            </div>
+            <button type="submit">Recommend Drug</button>
+        </form>
+        {% if prediction %}
+            <div class="result">
+                <h2>Recommended Drug:</h2>
+                <p>{{ prediction }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,459 @@
+﻿AGE,GENDER,SYMPTOMS,WEIGHT(kg),TEMPERATURE(degreec),Underlying Issues,PRESCRIBED MEDICATION
+23,M,"cough , headache, Body weakness ",72.7,36.4,none,ACT tablet
+18,F,"Abdominal pain ,headache,Dizzinesss,vomiting,stooling,fever,loss of appetite",52.8,35.6,none,ACT tablet
+51,F,"Chest pain, headache, Body pain, Bitter taste , sorethroat",64.11615385,36.4,none,ACT tablet
+18,F,"mouthsore, Catarrh, itching, Body pain",50,36.6,none,ACT tablet
+19,F,"Headache, vomiting, loss of appetite ",88.5,36,none,ACT tablet
+20,M,"Fever, Sorethroat, Headache, Cough, Cold",64.11615385,35.8,none,ACT tablet
+19,M,"Fever, Body pain ",76.2,37.4,none,ACT tablet
+17,F,"Headache,Catarrh ,sore throat",58.9,37,none,ACT tablet
+20,F,"Nausea,vomiting,Abdominal pain,loss of appetite",51.3,36.9,none,ACT tablet
+19,M,"cough , headache, Body weakness,fever,nausea,vomiting,loss of appetite ",57,36.7,none,ACT tablet
+25,F,"Catarrh,sore throat,headache,Body weakness,nausea,vomiting",64.11615385,36.7,none,ACT tablet
+18,M,"Fever, Body pain, Headache",54,36.7,none,ACT tablet
+21,M ,"Sorethroat, Fever, Catarrh, Body weakness, Body pain",69.8,36.6,none,ACT tablet
+19,F,"Body pain, Headache, Fever, vomiting, Nausea, Abdominal pain ",53,36.5,none,ACT tablet
+21,F,"Abdominal pain, watery stool, headache, Body pain, Bitter taste ",51.9,36.9,none,ACT tablet
+16, F,"Loss of conciousness, headache, ",78.3,36.5,none,ACT tablet
+21,F,"headache, weakness, joint pain, Bitter taste , fever",73.2,36.1,none,ACT tablet
+19,F,"fever, weakness, headache, nausea, vomiting",38.3,36.9,none,ACT tablet
+18,F,"cold, headache, sorethroat",58.3,36.5,none,ACT tablet
+18,F,"vomiting, weakness, loss of appetitie, Abdominal pain",55,36.9,none,ACT tablet
+19,F,"headache, Catarrh, cough, fever, cold",64.11615385,36.898434,none,ACT tablet
+17,F,"fever, headache, weakness",82.4,35.7,none,ACT tablet
+18,M,"Bitter taste , loss of appetite, headache, weakness",66.8,36.4,none,ACT tablet
+19,F ,"headache, reduced appetite, cold",64.11615385,37.2,none,ACT tablet
+17,F,"fever, Body pain, headache",55,38.8,none,ACT tablet
+17,F,"headache, Body pain, fever, Body weakness, sore throat, vomiting, Abdominal pain",54.4,36.4,none,ACT tablet
+19,F,"headache,nasuea, bone pain, Chest pain",101.8,35.9,none,ACT tablet
+20,F,"cough, fever, vomiting",87.6,38.5,none,ACT tablet
+18,F,"fever, Body pain, bone pain",47.6,37.1,none,ACT tablet
+18,F,"sorethroat, sore tongue, Catarrh, Back pain, weakness, Bitter taste  ",61.1,36.8,none,ACT tablet
+45,F,"weakness, joint pain, headache",73,38.9,none,ACT tablet
+18,F,"rashes on face and lips, herpes ",48.6,36.4,none,ACT tablet
+20,M,"Catarrh, sorethroat, cough, weakness",71.9,36,none,ACT tablet
+17,M,"headache,fever, Body pain, eyepain, weakness",53,38.1,none,ACT tablet
+19,M,"headache, Catarrh, cough, cold, weakness",62,36.8,none,ACT tablet
+17,F,"joint pain, Body pain. Chest pain, cough, Catarrh, weakness, vomiting",65,37.6,none,ACT tablet
+18,F,"Catarrh, cough, fever, watery stool",56.9,35.9,none,ACT tablet
+16,F,"Body pain, vomiting, diarrhea, cough, anorexia, Chest pain, Abdominal pain",55,36.1,none,ACT tablet
+17,M,"fever, headache, weakness",72.5,36.9,none,ACT tablet
+18,F,"Sore throat, Catarrh, headache, weakness",51.5,36.898434,none,ACT tablet
+47,F,"Catarrh, cough, fever, Bitter taste , lost of appetite",64.11615385,36.8,none,ACT tablet
+49,M,"headache, Body pain, Catarrh",64.11615385,36.5,none,ACT tablet
+40,M,"weakness, itching eye, Body pain, Bitter taste ",69,36.4,none,ACT tablet
+42,F,"fever, weakness, Body pain, nausea",57,36.898434,none,ACT tablet
+50,F,"headache, fever, Abdominal pain, Catarrh, nausea",63,36.4,none,ACT tablet
+47,F,"lost of appitite, headache, Back pain",64.11615385,36.6,none,ACT tablet
+20,M,"eye ache, fiver, headache",64.11615385,37.3,none,ACT tablet
+19,M,"Sore throat, joint pain,headache,loss of appetite",55.9,37.4,none,ACT tablet 
+21,M,"headache, loss of appetite, Bitter taste  ",58,36.7,none,ACT tablet 
+26,F,"Abdominal pain, joint pain , sore throat, stooling, headache",64.11615385,36.5,none,ACT tablet 
+17,M,"Fever, Headache, Body weakness ",77,38,none,"ACT tablet, I.M. artemether-lumefantrine"
+19,F,"fever, weakness, lost of appitite, Catarrh",62,37.6,none,"ACT tablet, I.V.F"
+20,M,"Cold, Headache, Body weakness, Body pain, Stooling",70.5,37,none,"ACT tablet, Metronidazole"
+21,F,Dizzinesss,69,36.4,none,Amoxiclav tablet
+16,F,"Fever,headache",64.11615385,38.2,none,"Artesunate tablet,Fansidar"
+17,F,"Dizzinesss, Abdominal pain, Stooling, Cough",50,38,none,Arthemeter Lumefantrine tablet
+16,F,"Headache, Fever, Body weakness, Bitter taste  ",52,38.6,none,Arthemeter Lumefantrine tablet
+21,F,"Abdominal pain, Headache, Fever, Cold",73.7,37.2,none,Arthemeter Lumefantrine tablet
+21,M,"Headache, Fever, Body pain",62.9,39.1,none,Arthemeter Lumefantrine tablet
+22,F,"Headache, Reduced appetite, Bitter taste  ",52.8,36,none,Arthemeter Lumefantrine tablet
+19,F ,"Headache, Fever, Loss of appetite",89.3,36.4,none,Arthemeter Lumefantrine tablet
+20,M,"Nausea, headache ,malaise,Dizzinesss, Abdominal pain,anorexia ",57,35.8,none,Arthemeter Lumefantrine tablet
+17,F,"Anorexia,Abdominal pain,Chest pain,Cough,Catarrh, fever,headache ",62.4,36.8,none,Arthemeter Lumefantrine tablet
+18,F,"Fever , sore throat , cough , headache",64.11615385,36.7,none,Arthemeter Lumefantrine tablet
+18,F,"Joint pain,sore throat,fever,Body weakness,vomiting,headache",55.4,37.9,none,Arthemeter Lumefantrine tablet
+18,M,"Catarrh,headache,cold",86.6,35.8,none,Arthemeter Lumefantrine tablet
+19,M ,"Body weakness, Nausea, Headache",69.9,36.4,none,Arthemeter Lumefantrine tablet
+19,F,"Headache,fever,Body pain,Abdominal pain,Dizzinesss,stooling,vomiting,anorexia",85.9,37,none,Arthemeter Lumefantrine tablet
+20,M,"Abdominal pain,Body weakness,headache,stooling,vomiting,nausea,fever,sore throat",83.1,36.5,none,Arthemeter Lumefantrine tablet
+20,F,"Headache,Body pain",47.6,36.3,none,Arthemeter Lumefantrine tablet
+18,M,"Headache,Body pain ,insomnia,cold",63.3,36.4,none,Arthemeter Lumefantrine tablet
+17,F,"Cough,Catarrh,sorethroat,Dyspnoea,vomiting,Dizzinesss,joint pain",55.2,35,none,Arthemeter Lumefantrine tablet
+17,M,"Fever,sorethroat, cough, headache,Dizzinesss,vomiting,joint pain,Catarrh",61.1,36.8,none,Arthemeter Lumefantrine tablet
+18,F,"Headache,fever,Body pain,sore throat,Body weakness",61.2,37.4,none,Arthemeter Lumefantrine tablet
+21,F,"Sore throat,fever,Body pain,Body weakness,cough,Catarrh,headache",57.5,36.4,none,Arthemeter Lumefantrine tablet
+17,M,"Headache,fever,Abdominal pain,sore throat,cough,Catarrh,Dizzinesss",58,36.1,none,Arthemeter Lumefantrine tablet
+22,F,"Fever,headache,stooling",64.11615385,36.9,none,Arthemeter Lumefantrine tablet
+20,F,"Catarrh,headache,Body pain,Insomnia",41.3,37,none,Arthemeter Lumefantrine tablet
+17,F,"Headache,Body pain,Body weakness",73.1,36.7,none,Arthemeter Lumefantrine tablet
+20,F,"Fever,headache,sore throat",64.11615385,38.8,none,Arthemeter Lumefantrine tablet
+17,F,"Fever,headache,cold,nausea,vomiting,Chest pain",78.7,36.8,none,Arthemeter Lumefantrine tablet
+16,M,"Fever,headache,Joint pain,Dizzinesss,Chest pain",64.11615385,37.6,none,Arthemeter Lumefantrine tablet
+20,M,"Dizzinesss,cough,Catarrh,fever",60.5,36.4,none,Arthemeter Lumefantrine tablet
+22,M,"Headache,Body weakness,fever,joint pain",58,38.9,none,Arthemeter Lumefantrine tablet
+50,F,"Body weakness, Fever",58.7,36.6,none,Arthemeter Lumefantrine tablet
+24,F,"Headache,Body pain,Body weakness",64.11615385,36.5,none,Arthemeter Lumefantrine tablet
+52,M,"Body pain, loss of appetite,headahe",64.11615385,36.4,none,Arthemeter Lumefantrine tablet
+17,F,"Catarrh,cough,headache,fever,nausea,vomiting,Abdominal pain",42.5,36.5,none,Arthemeter Lumefantrine tablet
+50,M,"Headache,joint pain,Catarrh",69,35.4,none,Arthemeter Lumefantrine tablet
+47,F,"Headache,joint pain,fatigue",64.11615385,35.8,none,Arthemeter Lumefantrine tablet
+53,M,"Headache,Body pain,fever,cough",64.11615385,37,none,Arthemeter Lumefantrine tablet
+16,M,"Fever,headache",57.8,39.3,none,Arthemeter Lumefantrine tablet
+23,M,"Headache,cold,cough,fever,insomnia",60.2,38.5,none,Arthemeter Lumefantrine tablet
+18,M,"Fever,Dizziness,cold,cough,Catarrh",57.8,36.5,none,Arthemeter Lumefantrine tablet
+20,M,"Body pain,headache,fever,Dizzinesss,loss of appetite",72.1,35.7,none,Arthemeter Lumefantrine tablet
+19,F,"Headache,fever,Loss of appetite,Body weakness",65.4,37.9,none,Arthemeter Lumefantrine tablet
+17,F,"Headache,sore throat,Loss of appetite,cold,cough ,Catarrh",60.4,35.5,none,Arthemeter Lumefantrine tablet
+24,F,"Headache,fever,Nausea,Loss of appetite,cold",63.2,39.1,none,Arthemeter Lumefantrine tablet
+41,F,"Fever,Body pain,loss of appertite",70,36.8,none,Arthemeter Lumefantrine tablet
+19,M,"Fever,sorethroat, cough, Abdominal pain,vomiting stooling",42.5,38.6,none,Arthemeter Lumefantrine tablet
+18,M,"Cough,Catarrh,sorethroat,vomiting,Dizzinesss,Abdominal pain, stooling ",47,36.8,none,Arthemeter Lumefantrine tablet
+17,M,"Cough,Catarrh,sorethroat,Weakness, Body pain, stooling ",64,37.1,none,Arthemeter Lumefantrine tablet
+40,M,"Body pain, Headache, Fever, ",73,37.7,none,Arthemeter Lumefantrine tablet
+22,M,"Fever, Body weakness ",64,39,none,Arthemeter Lumefantrine tablet
+23,F,"Headache,fever,Loss of appetite,Body weakness",68.7,36.5,none,Arthemeter Lumefantrine tablet
+16,M,"Fever, Headache, Catarrh, Chest pain, Cough, vomiting, Stooling, cold",64.6,38.3,none,Arthemeter Lumefantrine tablet
+19,F,"Headache, Cold, Joint pains, vomiting, Loss of appetite ",41.8,36.6,none,Arthemeter Lumefantrine tablet
+16,M,"Body weakness, Nausea, Joint pain, ",56.4,37.5,none,Arthemeter Lumefantrine tablet
+22,F,"Headache, Body pain, Fever, cold, Bitter taste  , Loss of appetite",68.5,36.5,Asthma,Arthemeter Lumefantrine tablet
+20,M ,"Fever, Headache, Body pain",64.11615385,37.1,none,Arthemeter Lumefantrine tablet
+19,M,"Fever, Headache, Body pain, Body weakness",56,36.7,none,Arthemeter Lumefantrine tablet
+18,M ,"Headache, Fever ",54,38,none,Arthemeter Lumefantrine tablet
+22,M,"Abdominal pain, Body pain, Fever, Headache",60.4,36.7,none,Arthemeter Lumefantrine tablet
+19,M ,"Fever, Headache, Cough, Catarrh, Sorethroat",49.4,36.4,none,Arthemeter Lumefantrine tablet
+19,M ,"Sorethroat, Fever, Catarrh, Headache, vomiting, Stooling",57,35.2,None ,Arthemeter Lumefantrine tablet
+18,F,"Headache, Body pain, Fever, cold, Nausea, Loss of appetite, Body weakness ",53,35.9,none,Arthemeter Lumefantrine tablet
+19,F,"Headache, Sorethroat, Fever",90.8,36.2,none,Arthemeter Lumefantrine tablet
+18,M,"Fever, Headache, Body pain, cold, Nausea, vomiting, Cough, Catarrh",52.9,37.4, None,Arthemeter Lumefantrine tablet
+18,M,"Fever, Body pain, Headache",59,36.3,none,Arthemeter Lumefantrine tablet
+15,M ,"Fever, Headache, vomiting, cold, Body weakness, Cough, Catarrh, Abdominal pain",57.7,37.1,Diabetes,Arthemeter Lumefantrine tablet
+41,M,"Nausea, Vomiiting, Fever, Headache, Stooling, Cough, Catarrh",64.11615385,35.2,none,Arthemeter Lumefantrine tablet
+25,F,"Nausea, Vomiiting, Fever, Headache ",67,36.6,none,Arthemeter Lumefantrine tablet
+20,M,"Fever, Headache",65.6,35.6,none,Arthemeter Lumefantrine tablet
+22,F,"Headache, Fatigue, Body pain, Body weakness",65.7,37,none,Arthemeter Lumefantrine tablet
+19,M ,"Headache,  Body weakness, vomiting ",65,36.6,Asthma ,Arthemeter Lumefantrine tablet
+19,F,"Headache, Body pain, Fever, cold, Nausea, Loss of appetite, Body weakness ",50,36.5,none,Arthemeter Lumefantrine tablet
+22,M,"Headache, Fever, Body weakness, Bitter taste  ",70,36.898434,none,Arthemeter Lumefantrine tablet
+38,F,"Headache, Bitter taste  , Body weakness, Fever",67,35.5,none,Arthemeter Lumefantrine tablet
+18,M ,"Fever, Catarrh, vomiting ",60,36.6,none,Arthemeter Lumefantrine tablet
+20,F,"Fever, Body pain, Body weakness  ",65.7,36.8,none,Arthemeter Lumefantrine tablet
+26,M,"Body pain, Body weakness, Headache ",72,36.6,none,Arthemeter Lumefantrine tablet
+20,M,"Headache, Fever",48.2,36.8,none,Arthemeter Lumefantrine tablet
+18,M,"Headache, Fever, vomiting, Stooling, Cough, Sorethroat, Catarrh, Abdominal pain ",110.1,36.7,none,Arthemeter Lumefantrine tablet
+22,M,"Catarrh, Cough, Fever, Rashes on the neck",77.9,37.1,none,Arthemeter Lumefantrine tablet
+19,F,"Cough, Catarrh, Headache, Abdominal pain",68.9,36.2,none,Arthemeter Lumefantrine tablet
+20,M,"Fever, Cold, Headache, Cough, vomiting, Abdominal pain",69.1,36.7,none,Arthemeter Lumefantrine tablet
+18,M,"Fever, Dizzinesss, Cough, Catarrh",81,36.5,none,Arthemeter Lumefantrine tablet
+20,F,"Catarrh, cough, Dizzinesss, weakness, fever, headache",51.3,36.3,none,Arthemeter Lumefantrine tablet
+17,F,"headache, cough, Catarrh, fever, vomiting, sorethroat,  Chest pain",48.8,37.6,none,Arthemeter Lumefantrine tablet
+19,F,"fever, headache, cold, nausea, vomiting, cough, Catarrh, stooling",72,36.5,none,Arthemeter Lumefantrine tablet
+20,M,"Catarrh, sorethroat, headache",64.3,36,none,Arthemeter Lumefantrine tablet
+20,M,"fever, headache, Body pain, nausea, vomiting, Catarrh, Abdominal pain, cough",64.11615385,36.1,none,Arthemeter Lumefantrine tablet
+18,F,"headache, Body pain, herpes of the lips, fever",66.2,37.1,none,Arthemeter Lumefantrine tablet
+19,M,"Headache, Fever, Sore throat, joint pains, cough, Catarrh",52,35.8,none,Arthemeter Lumefantrine tablet
+20,M,"cold, Catarrh, fever, joint-pain",55.7,38.4,none,Arthemeter Lumefantrine tablet
+19, F,"Catarrh, fever, headache",64.11615385,35.4,none,Arthemeter Lumefantrine tablet
+18,F,"ill looking, fever, headache, feeble",69.9,39.3,none,Arthemeter Lumefantrine tablet
+22,F,"fever, headache, joint-pain",64.11615385,36.9,none,Arthemeter Lumefantrine tablet
+24, F,"headache, fever, vomiting, diarrhea, cough, Catarrh, sorethroat, Abdominal pain",37.5,36.9,none,Arthemeter Lumefantrine tablet
+19,M,"Abdominal pain, Chest pain",55.5,36.2,none,Arthemeter Lumefantrine tablet
+18,F,"fever, headache, weakness, dyspnoea, Chest pain, cough, Catarrh, sorethroat, nausea, vomiting",51.5,35.9,none,Arthemeter Lumefantrine tablet
+20,M,"loss of appetite, headache, fever, cough, Catarrh, sorethroat",64.11615385,39.2,none,Arthemeter Lumefantrine tablet
+20,F,"Joint pain, headache, fever, weakness, Dizzinesss, cough, Catarrh, vomiting, nausea, sore throat, anorexia",43.6,36,none,Arthemeter Lumefantrine tablet
+22,M,"Headache, cough, Catarrh ",62.3,37,none,Arthemeter Lumefantrine tablet
+19,M,"Headache, Fever",54.2,36.2,none,Arthemeter Lumefantrine tablet
+23, F,"Sore throat, Headache",48.2,36.3,none,Arthemeter Lumefantrine tablet
+20,F,"Headache, Cough, Catarrh, Fever ",70.5,35.1,none,Arthemeter Lumefantrine tablet
+17,M,"Abdominal pain ,Body weakness, headache, fever, watery stool,  cough",83.3,36,none,Arthemeter Lumefantrine tablet
+18,F,"Headache, Dizzinesss, Nausea, Cough",67.4,36.5,none,Arthemeter Lumefantrine tablet
+19,F,"fever, headache, loose stool, Abdominal pain,",57.5,35.6,none,Arthemeter Lumefantrine tablet
+18,M,"Body weakness, fever, cold, vomiting, Body pain",66.4,37.2,none,Arthemeter Lumefantrine tablet
+21,M,"sorethroat, headache, fever",59.5,37.1,none,Arthemeter Lumefantrine tablet
+16,F,"headache, fever, vomiting ",57.5,35.2,none,Arthemeter Lumefantrine tablet
+17,F,"weakness, nausea, vomiting, cough, Catarrh, sorethroat",65.8,36.5,none,Arthemeter Lumefantrine tablet
+18,F,"vomiting, stooling, cough, Catarrh, sorethroat, Abdominal pain",39.6,35.3,none,Arthemeter Lumefantrine tablet
+19,M,"joint pain, headache, nausea, vomiting, Dizzinesss, reduced appetite, weakness, fever",98.8,37.8,none,Arthemeter Lumefantrine tablet
+20, F,"weakness, Body pain, fever, headache, Dizzinesss, joint pain",53.3,36.7,none,Arthemeter Lumefantrine tablet
+17,F,Chest pain,52.2,36.898434,none,Arthemeter Lumefantrine tablet
+20,F,"Abdominal pain, Body weakness",62.8,36.898434,none,Arthemeter Lumefantrine tablet
+17,F,"weakness, Body pain, fever, headache, Dizzinesss, joint pain",54.1,37.3,none,Arthemeter Lumefantrine tablet
+18,M,"headache, bloody vomiting, fever",63.7,39.8,none,Arthemeter Lumefantrine tablet
+20,F,"headache, fever, poor appetite, fever, cold, vigor",158,37,none,Arthemeter Lumefantrine tablet
+21,M,"joint pain, headache, cough, runny nose",74.6,37.4,none,Arthemeter Lumefantrine tablet
+16,F,"watery stool, headache, fever",74.2,35.9,none,Arthemeter Lumefantrine tablet
+21,M,"headache, weakness",64.11615385,36,none,Arthemeter Lumefantrine tablet
+17,M,"Shivering, vomiting, headache,weakness",57.9,38,none,Arthemeter Lumefantrine tablet
+19,M,"fever, weakness, joint pain, headache, cough, nausea",56.2,35.8,none,Arthemeter Lumefantrine tablet
+17,M,"headache, stomachache, Dizzinesss, stooling, fever, jointpain, sorethroat",54.2,36.2,none,Arthemeter Lumefantrine tablet
+16,M,"headache,Body pain, Abdominal pain, stooling, fever",51.7,36.4,none,Arthemeter Lumefantrine tablet
+17,F,"sorethroat, Body weakness, fever, headache",75.7,36.2,none,Arthemeter Lumefantrine tablet
+24,M,"headache, fever, weakness, Abdominal pain",61.4,37.7,none,Arthemeter Lumefantrine tablet
+19,F,"weakness, poor appetite, headache, Body pain",49.8,37,none,Arthemeter Lumefantrine tablet
+19,F,"headache, weakness, vomiting, loose stool",50.1,36.4,none,Arthemeter Lumefantrine tablet
+19,M,"weakness, headache, fever",60.4,38.9,none,Arthemeter Lumefantrine tablet
+20,M,"fever, headache, Body weakness, joint pain, cough",70.1,36.5,none,Arthemeter Lumefantrine tablet
+20,M,Bitter taste  ,64.11615385,36.2,none,Arthemeter Lumefantrine tablet
+17,M,left loin pain,66.1,36.898434,none,Arthemeter Lumefantrine tablet
+21,M,"headache, fever, nausea, Body pain",96.9,36.4,none,Arthemeter Lumefantrine tablet
+25,F,"headache, Chest pain, fever headache, Body pain, Catarrh, cough",58.5,36.7,none,Arthemeter Lumefantrine tablet
+20,F,"headache, fever",97.6,37.4,none,Arthemeter Lumefantrine tablet
+20,M,"Catarrh, headache, fever",70.9,36.2,none,Arthemeter Lumefantrine tablet
+20,M,"fever, headache, sorethroat",60.3,36.7,none,Arthemeter Lumefantrine tablet
+22,M,"headache, fever, nausea, Abdominal pain",59.7,36.7,none,Arthemeter Lumefantrine tablet
+16,M,"fever, cold, headache",65.3,37.7,none,Arthemeter Lumefantrine tablet
+17,F,"Abdominal pain, increased vaginal discharge",49.7,36,none,Arthemeter Lumefantrine tablet
+23,F,"fever, headache, weakness, joint pain",80.6,36.7,none,Arthemeter Lumefantrine tablet
+20,F,"headache, vomiting, stooling, fever, weakness",79.4,39.6,none,Arthemeter Lumefantrine tablet
+18,F,"headache, Body pain, weakness, vomiting",67.6,36.7,none,Arthemeter Lumefantrine tablet
+21,M,"headache, cold, Body pain, nausea",55.3,36.8,none,Arthemeter Lumefantrine tablet
+18,M,"headache, Body pain, fever, weakness",64.11615385,36.4,none,Arthemeter Lumefantrine tablet
+20,F,"headache, fever, Body pain, weakness, loss of appetite, Bitter taste  , nausea",64.8,36.9,none,Arthemeter Lumefantrine tablet
+19,F,"headache, Dizzinesss, irritability",81.1,36,none,Arthemeter Lumefantrine tablet
+17,F,"headache, weakness, fever, watery stool",46.7,36.3,none,Arthemeter Lumefantrine tablet
+19,F,"heache, Bitter taste , Body pain, Body weakness",42.5,36.9,none,Arthemeter Lumefantrine tablet
+16,F,"headache, fever, cold",52.6,37.2,none,Arthemeter Lumefantrine tablet
+26,M,"back pain, headache, fever",101.1,36.6,none,Arthemeter Lumefantrine tablet
+16,F,"fever, Body pain, Chest pain, Abdominal pain",70.3,36.1,none,Arthemeter Lumefantrine tablet
+17,F,Loss of conciousness,44.4,36.9,none,Arthemeter Lumefantrine tablet
+17,F,"Abdominal pain, vomiting, loose stool",86.6,35.3,none,Arthemeter Lumefantrine tablet
+19,F,"Diarrhea, vomiting, headache, fever",54.5,36.8,none,Arthemeter Lumefantrine tablet
+16,F,"weakness, left leg pain, headache, fever",71.8,35.7,none,Arthemeter Lumefantrine tablet
+19,M,"headache, cold, nausea, cough",64.11615385,37.1,none,Arthemeter Lumefantrine tablet
+23,M,"headache, back pain, Body weakness, fever, nausea",48.1,36.8,none,Arthemeter Lumefantrine tablet
+17,M,"headache, cough, weakness, Bitter taste ",50.3,34.8,none,Arthemeter Lumefantrine tablet
+21,F,"Headache, Fever ",65.6,36.4,none,Arthemeter Lumefantrine tablet
+17,F,"Fever, Headache, Runny nose, Loose stool, Abdominal pain",75.7,40,none,Arthemeter Lumefantrine tablet
+18,F,"Weakness, Chest pain, Headache",89,36.3,none,Arthemeter Lumefantrine tablet
+15,F,"Fever, Headache, Abdominal pain, Weakness",53.5,36.1,none,Arthemeter Lumefantrine tablet
+18,F,"Headache, Cold, Fever, Abdominal pain",72.7,36.7,none,Arthemeter Lumefantrine tablet
+17, F,"Fever, Weakness, Joint pain, Dizzinesss, nausea, headache",61.7,37.1,none,Arthemeter Lumefantrine tablet
+22,F,"Headache, Joint pain, Fever, Weakness",50.4,36.5,none,Arthemeter Lumefantrine tablet
+21, M,"Body weakness, Headache",68.2,36.4,none,Arthemeter Lumefantrine tablet
+20,F,No symptoms recorded,40.1,35.3,none,Arthemeter Lumefantrine tablet
+17,M,"cold, Headache, Fever",50.8,36.4,none,Arthemeter Lumefantrine tablet
+17,F,"Dizzinesss, Headache",52.9,36,none,Arthemeter Lumefantrine tablet
+20,M,"Sore throat, Headache, Weakness",52,35.8,none,Arthemeter Lumefantrine tablet
+42,F,"lower back pain, Body pain",64.11615385,37.1,none,Arthemeter Lumefantrine tablet
+24,F,"headache, stooling, nausea",96.6,35.6,none,Arthemeter Lumefantrine tablet
+37,M,"fever, Body pain, headache, body rashes",64.11615385,35.5,none,Arthemeter Lumefantrine tablet
+48,F,"headache, Dizzinesss, poor sleep",61.6,35.5,none,Arthemeter Lumefantrine tablet
+24,M,"headache, fever, nausea",76.3,36.1,none,Arthemeter Lumefantrine tablet
+37,F,"headache, cough, vaginal itchiness",64.11615385,36.2,none,Arthemeter Lumefantrine tablet
+40,M,"headache, Body pain, mild cough, Catarrh",64.11615385,39.6,none,Arthemeter Lumefantrine tablet
+15,F,"Catarrh, sorethroat",64.11615385,37.1,none,Arthemeter Lumefantrine tablet
+57,M,"cough, Catarrh, poor sleep",75.4,36.1,none,Arthemeter Lumefantrine tablet
+60,M,"fever, weakness, Catarrh",78,37.1,none,Arthemeter Lumefantrine tablet
+50,F,joint pain,64.11615385,35.7,none,Arthemeter Lumefantrine tablet
+36,F,"Catarrh, headache, fever, sorethroat",52,36.4,none,Arthemeter Lumefantrine tablet
+46,M,"headache, Body pain",67,36.8,none,Arthemeter Lumefantrine tablet
+37,F,"Body pain, fatigue, Dizzinesss, fever, itchy vulva",64.11615385,36.7,none,Arthemeter Lumefantrine tablet
+30,F,fever,50,37.2,none,Arthemeter Lumefantrine tablet
+36,F,"headache, Body pain, poor sleep, cold",73,36,none,Arthemeter Lumefantrine tablet
+39,M,"tiredness, vomiting",64.11615385,36.4,none,Arthemeter Lumefantrine tablet
+18,F,"headache, fever, weakness, Body pain, nausea, vomiting",59.7,37.6,none,Arthemeter Lumefantrine tablet
+19,F,"Body pain, fever, weakness",54.6,36.9,none,Arthemeter Lumefantrine tablet
+19, M,"headache, fever, cold, Back pain, lost of appetite, Bitter taste  , weakness",75,37.5,none,Arthemeter Lumefantrine tablet
+21,M,"headache, fever, vomiting, sour throat",71,38.4,none,Arthemeter Lumefantrine tablet
+19,M,"Body pain, fever, cold, nausea",53,36.9,none,Arthemeter Lumefantrine tablet
+20,M,"fever, vomiting, headache, lost of appetite",81.8,36.3,none,Arthemeter Lumefantrine tablet
+17,F,"weakness, headache, fever",58,39.6,none,Arthemeter Lumefantrine tablet
+18,M,"headache, fever, weakness, vomiting, nausea, Body pain",110,36.6,none,Arthemeter Lumefantrine tablet
+18,M,"fever, sorethroat, Catarrh",69.5,36.6,none,Arthemeter Lumefantrine tablet
+18,M,"headache, fever, Body pain Catarrh",114,36.4,none,Arthemeter Lumefantrine tablet
+18, M,"headache, weakness, sorethroat, Body pain",64.11615385,36.6,none,Arthemeter Lumefantrine tablet
+17,F,"headache, Body pain, Dizzinesss, palpitation, skin rash",60,36.7,none,Arthemeter Lumefantrine tablet
+17,F,"fever, headache, weakness, Body pain, vomiting, nausea",68.6,36.6,none,Arthemeter Lumefantrine tablet
+19,F,"bone pain, itching, headache",73.5,36.2,none,Arthemeter Lumefantrine tablet
+16,F,"headache, fever, weakness, Body pain, nausea, Dizzinesss, lost of appitite",50,36.1,none,Arthemeter Lumefantrine tablet
+18,M,"headaches, fever, cough, Catarrh",60.2,39,none,Arthemeter Lumefantrine tablet
+16,M,"Dizzinesss, weakness, sorethroat, Catarrh",126.6,36.3,none,Arthemeter Lumefantrine tablet
+18,F,"headache, fever, Abdominal pain, Catarrh, cough, Bitter taste ",60.5,36.7,none,Arthemeter Lumefantrine tablet
+19,M,"Sore throat, Catarrh, headache",60,36.8,none,Arthemeter Lumefantrine tablet
+19,M,"fever, Abdominal pain, headache, weakness, cough, nausea",64,36.6,none,Arthemeter Lumefantrine tablet
+21,F,"Abdominal pain, sorethroat, headache, cough",70.2,36.3,none,Arthemeter Lumefantrine tablet
+19,M,"headache. fever, weakness",68.2,36.7,none,Arthemeter Lumefantrine tablet
+18,F,"Catarrh, sorethroat, headache, cough",60.4,36.5,none,Arthemeter Lumefantrine tablet
+21,F,"Catarrh, sneezing, fever",79.2,36.4,none,Arthemeter Lumefantrine tablet
+18,M,"headache, weakness, weakness, fever, acute diarihea",64.11615385,37.8,none,Arthemeter Lumefantrine tablet
+19,F,"vomiting, headache, eoigastric pain, fever, loss of appitite",55,36.6,none,Arthemeter Lumefantrine tablet
+18,M,"Body pain, fever, headache",54.8,38.2,none,Arthemeter Lumefantrine tablet
+20,M,"headache, weakness",73.3,37.2,none,Arthemeter Lumefantrine tablet
+18,M,"Body pain, fever, headache, cold",71,36.6,none,Arthemeter Lumefantrine tablet
+39,F,"cough, Catarrh, Body pain, headache",64.11615385,36.7,none,Arthemeter Lumefantrine tablet
+37,M,"headache, Catarrh, fever, cough, Chest pain",60.5,36.7,none,Arthemeter Lumefantrine tablet
+48,F,"Body pain, headache, weight loss, nausea, cough",80,36.6,none,Arthemeter Lumefantrine tablet
+17,M,"headache, Catarrh, cough, Body pain",67,36.6,none,Arthemeter Lumefantrine tablet
+17,F,"lost of appitite, Abdominal pain, headache, cold, epigastric pain",95,37.5,none,Arthemeter Lumefantrine tablet
+16,M,"fever, weakness, vomiting",70,37.6,none,Arthemeter Lumefantrine tablet
+17,F,"fever, headache, Bitter taste ",53,36.2,none,Arthemeter Lumefantrine tablet
+17,M,"headache, weakness, fever, sorethroat, nausea",44,36.6,none,Arthemeter Lumefantrine tablet
+19,M,"headache, fever, weight loss, loss of appitite, sorethroat",63,36.6,none,Arthemeter Lumefantrine tablet
+16,F,"weakness, headache, Body pain",61.5,36.9,none,Arthemeter Lumefantrine tablet
+48,F,"Body pain, headache, nausea, vomiting",64,36.5,none,Arthemeter Lumefantrine tablet
+36,F,"purging, headache, Body pain",75,35.4,none,Arthemeter Lumefantrine tablet
+40,F,"headache, poorsleep, Body pain, fever",64.11615385,36.3,none,Arthemeter Lumefantrine tablet
+43,M,"cough, sorethroat, jointpain, Chest pain, loss of appetite, weakness, Dizzinesss, fever",68,37.1,none,Arthemeter Lumefantrine tablet
+53,M,"Body pain, elivated Bp",101,36.6,none,Arthemeter Lumefantrine tablet
+50,M,"Bitter taste , fever, Body weakness",72.5,36.5,none,Arthemeter Lumefantrine tablet
+32,F,"headache, Catarrh, weakness",71,36.4,none,Arthemeter Lumefantrine tablet
+20,F,"headache, jointpain, fever, cough, sorethroat",51.2,36,none,Arthemeter Lumefantrine tablet
+17,M,"headache, nausea, Abdominal pain",72.6,36.3,none,Arthemeter Lumefantrine tablet
+17,M,"headache, fever, Abdominal pain, Catarrh, nausea",53.5,33.3,none,Arthemeter Lumefantrine tablet
+18,M,"headache,fever, vomiting, ",78,36.7,none,Arthemeter Lumefantrine tablet
+17,F,"weakness, headache, fever, stool, Abdominal pain",71.5,36.7,none,Arthemeter Lumefantrine tablet
+17,M,"fever, cold, Body pain, headache",51,37.4,none,Arthemeter Lumefantrine tablet
+18,F," Body pain, Abdominal pain, Headache, Fever",46.7,37.7,none,"Arthemeter Lumefantrine tablet, I.M. artemether-lumefantrine"
+19,F,"Fever,headache,cold,sore throat",54.2,37.4,none,Camosunate tablet
+24,F,"Fever, Headache, Cough, Joint aches, Bitter taste  ",52.8,37.4,none,Camosunate tablet
+43,F,"Body pain, boil in the ear, fever",64.11615385,36.2,none,Camosunate tablet
+17,F,"joint pain, headache, fever, weakness, nausea",60.5,38.1,none,Camosunate tablet
+18,F,nausea,64.11615385,36.1,none,Camosunate tablet
+20,F,"Abdominal pain, vomiting",64.11615385,36.4,none,Cyproflaxin
+18,M,"headache, fever, weakness",54.5,36.898434,none,"Emal, ACT tablet"
+22,F,"Headache,fever",64.11615385,36.8,none,Fansidar
+24,F,"drowsy, constant weakness, Bitter taste  , evening fever, blury vision,",73.2,36.898434,none,Fansidar
+48,M,"Body pain, slight headache, elevated High Blood pressure",81,36.3,none,Fansidar
+21,F,"sorethroat, cough, painful swallowing, inflamed tonsils",87.4,36.8,none,I.M Emal
+19,M,"Nausea, Abdominal pain, vomiting, Headache",57.8,37.1,none,I.M Emal
+19,M,"Nausea, Loss of appetite, Abdominal pain, vomiting ",55.9,38.2,none,I.M Emal
+19,M,"Headache, Body pain, fatigue",64.11615385,38.1,none,I.M Emal
+21,F,"Body weakness, Fever",48.1,37,none,I.M Emal
+17,M,"Fever,Body weakness,joint pain,headache,vomiting,nausea,sore throat,cough,Catarrh",64.11615385,37.9,none,I.M Emal
+18,F,"Headache,Body pain",52.1,36.8,none,I.M Emal
+19,M,"Fever,Body pain,headache,nausea",61.2,38.3,none,I.M Emal
+36,F,"Body pain, Headache, Fever, Cough, Catarrh",63,36.1,none,I.M Emal
+19,F,"Fever, Headache ",46.8,38.7,none,I.M Emal
+18,M,"Fever, Headache, vomiting, Stooling, Abdominal pain. Body weakness",64.11615385,35.5,none,I.M Emal
+17,M,"Fever, Headache, Stooling, vomiting, Abdominal pain, Joint pain, cold, Body weakness",46,36.5,none,I.M Emal
+30,F,"Headache, Body weakness, Body pain",64.11615385,36.5,none,I.M Emal
+18,M,"Abdominal pain, Headache, Fever, Body weakness",50.9,36.1,none,I.M Emal
+21,F,headache,64.11615385,36.4,none,I.M Emal
+20,F,"headache, Body pain, cough, Catarrh",32.2,37.5,none,I.M Emal
+20,M,"headache, fever, Abdominal pain,nausea, reduced appetite, loose tool",89.1,36.7,none,I.M Emal
+21,F,"fever, cold",66,36.6,none,I.M Emal
+26,M,"Chest pain, headache,dry cough, sorethroat",53.8,36.5,none,I.M Emal
+20,F,"Anorexia,Dizzinesss,Cough,Catarrh, fever,headache,Body weakness ",64.11615385,36.8,none,"I.M Emal , Arthemeter Lumefantrine tablet"
+19,F,"headache, joint pain, nausea, poor sleep",51.4,36.898434,none,"I.M Emal, ACT tablet"
+16,F,jointpain,47,36.3,none,"I.M Emal, ACT tablet"
+22,M,"Headache,Loss of appetite,Abdominal pain,Body pain",58.6,35.7,Ulcer,"I.M Emal, ACT tablet"
+17,M,"Headache,fever,epigastric pain",64.11615385,36.7,Ulcer,"I.M Emal, ACT tablet"
+21,F,"Catarrh, cough, sorethroat, nausea, vomiting, Abdominal pain",63.6,37,none,"I.M Emal, ACT tablet"
+27,F,"Headache, vomiting, Fever, Loss of appetite",68.9,36.5,none,"I.M Emal, Amatem soft gel"
+16,F,"headache, fever, Body pain ",76,37.5,none,"I.M Emal, Arthemeter lumefantrine"
+20,M,"Headache, Fever ",48.3,36.4,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+20,F,"Headache, Fever, Body weakness, Cough, Cold, vomiting",82.2,36.5,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+17,M,"vomiting, headache, fever, weakness",61.7,37.9,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+19,F,"Headache,vomiting,cough,Catarrh,Abdominal pain,stooling,sore throat",49,36.5,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+18,M,"Fever,cough,difficulty in breathing,Chest pain,vomiting,sore throat",111.9,40,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+18,M ,"Fever, Headache",64,36.9,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+46,M,"fever, headache, Body pain, Catarrh",65,36.5,none,"I.M Emal, Arthemeter Lumefantrine tablet"
+17,M ,"Headache, Fever, Nausea, vomiting ",64.11615385,36.8,none,"I.M Emal, Arthemeter Lumefantrine tablet "
+20,M,"headache, Body pain, fever, nausea",64.11615385,56.9,none,"I.M Emal, Arthemeter Lumefantrine tablet "
+20,M,"Fever,Headache,joint pain,sore throat, vomiting , nausea",76.3,36.2,none,"I.M Emal, Fansidar"
+16,F,"headache, weakness, fever, cough, Catarrh, sorethroat",79.8,37.6,none,"I.M Emal, Fansidar"
+18,M,"Fever,cough,headache,Catarrh",61.5,36.2,none,"I.M Emal, Fansidar"
+19,F,"Headache, Abdominal pain, vomiting, Fever",56.3,36.3,none,"I.M Emal, I.M. artemether-lumefantrine"
+17,M,"Fever, Stooling, Headache, Abdominal pain, cough, Catarrh",60.4,39.1,none,"I.M Emal, I.V.F"
+18,F,"Headache, Fever, Nausea, Body pain, Body weakness",92,36.1,none,"I.M Emal, PCM tab, ACT tablet"
+22,F,"Headache,fever,Body pain,Body weakness",64.7,36.6,none,"I.M Emal,I.M. promethazine (12.0 mg)"
+23,F,"Headache,fever,vomiting",85,37,none,"I.M Emal,I.M. promethazine (12.0 mg),ACT tablet"
+18,M,"Fever, Headache",50.2,37.7,none,"I.M Emal,I.V.F "
+20,F,"Headache,fever,vomiting,Catarrh",46.1,36.2,none,"I.M Emal,I.V.F,I.V Promethazine"
+18,F,"Catarrh,cough,joint pain,fever,Body weakness,headache",49.8,36.2,none,"I.M Hydrocotisone,Arthemeter Lumefantrine tablet"
+19,M,"Headache, Body pain, Fever",53.3,36.8,none,I.M. artemether-lumefantrine
+17,F,"vomiting, Headache, Fever, Body pain",66,36.9,none,I.M. artemether-lumefantrine
+19,F,"Abdominal pain, Headache, Fever, Cold",82.6,36.8,none,I.M. artemether-lumefantrine
+18,M,"Headache, Dizzinesss, vomiting, Fever",59.9,38.5,none,I.M. artemether-lumefantrine
+20,M,"vomiting, stooling ",64.11615385,36.2,none,I.M. artemether-lumefantrine
+19,F,"Headache,Dizzinesss,anorexia,fever,vomiting,stooling,Abdominal pain",53.2,36.6,none,I.M. artemether-lumefantrine
+22,F,"Catarrh,Body weakness,headache,cough",69.9,37.8,none,I.M. artemether-lumefantrine
+17,F,"Headache,Body pain,vomiting,fever,stooling,cough,Catarrh",64.11615385,39.5,none,I.M. artemether-lumefantrine
+39,F,"Headache,cold,cough,Catarrh",61,36.4,none,I.M. artemether-lumefantrine
+36,M,"Headache, Cough, Fever, Sorethroat, Nausea",66,37.9,none,I.M. artemether-lumefantrine
+35,F,"Headache,fever,Nausea,Loss of appetite,cold",57.8,36.7,none,I.M. artemether-lumefantrine
+21,M,"Headache, Loss of appetite, Bitter taste  , Dizzinesss, Back pain",64.11615385,36.5,none,I.M. artemether-lumefantrine
+19,F,"Body weakness, Cough, Fever",43.3,36.6,Ulcer,I.M. artemether-lumefantrine
+18,M ,"Headache, cold, Fever",71,38.4,none,I.M. artemether-lumefantrine
+22,M,"vomiting, Headache, Fever, Body pain, Cough, Catarrh",57.8,37.2,none,I.M. artemether-lumefantrine
+16,M ,"Headache, vomiting, Fever, Loss of appetite",55.7,36.6,none,I.M. artemether-lumefantrine
+19,M,"Headache, Fever, vomiting, Abdominal pain, Stooling, Cough, Catarrh, Sorethroat",64.11615385,36.5,none,I.M. artemether-lumefantrine
+18,F,"Headache,  Body weakness, vomiting ",69.5,36.3,none,I.M. artemether-lumefantrine
+19,M,"Fever, Headache, Back pain, Cold",64.1,37.8,none,I.M. artemether-lumefantrine
+19,M,"Fever, Headache, Catarrh, vomiting, Body pain, Sorethroat",58.6,36.7,none,I.M. artemether-lumefantrine
+19,F,"Headache, Fever, Body weakness, Back pain",52,38.1,none,I.M. artemether-lumefantrine
+19,F,"Body pain, Headache, Fever, vomiting ",59,36.4,Asthma,I.M. artemether-lumefantrine
+37,F,"Headache, Body pain, Body weakness ",70,36.4,none,I.M. artemether-lumefantrine
+17,M,"Fever, Headache, Body weakness",68.7,38.9,none,I.M. artemether-lumefantrine
+20,M,"Sore throat , Body pain ,  fever Catarrh",64.3,36.4,none,I.M. artemether-lumefantrine 
+18,F,"Headache,stooling,toothache,insomnia",45.7,37.7,none,I.M. artemether-lumefantrine 
+19,F,"Headache,fever,Body pain,cough",53.5,37.6,none,I.M. artemether-lumefantrine 
+26,F,"Headache,fever,Body pain",64.11615385,36,none,I.M. artemether-lumefantrine 
+16,M,"Headache,fever,Nausea,Loss of appetite,cold",64.11615385,37.2,none,I.M. artemether-lumefantrine 
+21,M,"Fever,vomiting,Body weakness,",78.6,36.8,none,"I.M. artemether-lumefantrine ,I.V.F"
+19,M,"Headache, Fever, Bitter taste  , vomiting, Abdominal pain, Stooling",63,36.1,none,"I.M. artemether-lumefantrine, ACT tablet"
+19,F,"Headache, Fever, Back Pain, Vomiting",47.8,36.7,none,"I.M. artemether-lumefantrine, ACT tablet"
+41,F,"Headache, Body pain, Body weakness, Cough",86.7,36.6,none,"I.M. artemether-lumefantrine, ACT tablet"
+36,F,"Back pain, Body weakness, fever",87.7,36.5,none,"I.M. artemether-lumefantrine, ACT tablet"
+19,F,"Fever,Body pain,headache,sore throat",60.8,36.6,none,"I.M. artemether-lumefantrine, ACT tablet"
+18,M,"Fever, Headache",56.7,37.8,none,"I.M. artemether-lumefantrine, ACT tablet"
+17,F,"Headache, Bitter taste  , Body weakness, Fever",48.9,38,none,"I.M. artemether-lumefantrine, ACT tablet"
+18,F,"fever, headache, weakness, Body pain",46.5,37.9,none,"I.M. artemether-lumefantrine, ACT tablet"
+20,F,"Joint pain,fever,Body weakness,headache",61.7,36.7,none,"I.M. artemether-lumefantrine, ACT tablet "
+17,F,"Fatigue, Loss of appetite, Abdominal pain",43.6,36.6,none,"I.M. artemether-lumefantrine, ACT tablet "
+18,M,"Headache, vomiting, Body weakness ",63.5,36.6,none,"I.M. artemether-lumefantrine, ACT tablet "
+18,F,"Headache, Abdominal pain, Body weakness, Nausea",73.1,36.7,None ,"I.M. artemether-lumefantrine, ACT tablet "
+19,M ,"Headache, Fever, vomiting, Abdominal pain, Sorethroat, Body weakness, Loss of appetite",84.9,39.4,none,"I.M. artemether-lumefantrine, ACT tablet,  Ciprofloxacin"
+26,M,"Body pain, fever, headache, back pain ",111.1,36.3,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+21,M,"Headache, Cough, Catarrh, Body pain ",64.4,37,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+19,M,"Headache, Body pain, Stomach ache",76,36.4,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+18,M,"Headache, Fever, Cold, Bitter taste  , Sorethroat, Abdominal pain, Nausea",55,37.2,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+18,M ,"Fever, Cough, Headache, Body pain, vomiting, Sorethroat, Stooling",66,37.6,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+21,M,"Fever, Cough, Headache, Body pain, vomiting, Sorethroat, Stooling",66,37.4,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+18,F,"Headache, Fever, Body weakness, Cough, Cold, vomiting",55.3,38.4,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+18,F,"Bitter taste  , Catarrh, Headache",55.2,35.4,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+35,M ,"Bitter taste  , Catarrh, Headache",65.5,36.3,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+23,F,"Fever, Body weakness, Fatigue, Headache ",65.3,36.9,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+17,M,"Fever,headache,Body pain,vomiting",40.5,37.9,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+18,M,"Fever, Sorethroat, Headache, Cough, Catarrh",59.7,36.7,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet"
+20,F,"Fever,Body weakness,back pain,headache,vomiting,nausea,cough,Catarrh",57,38.3,none,"I.M. artemether-lumefantrine, Arthemeter Lumefantrine tablet "
+20,F,"Fever, Headache, Stooling, Sorethroat, Cough, Catarrh, Epigastric pain",86.7,37.7,none,"I.M. artemether-lumefantrine, I.M. promethazine (12.0 mg)"
+21,M,"Nausea , vomiting , stooling , Body weakness ",60.5,35,none,"I.M. artemether-lumefantrine, I.V.F "
+19,M,"Fever, Body pain, Headache, Nausea ",54.8,37.2,none,"I.M. artemether-lumefantrine, I.V.F, I.V Promethazine"
+21,F,"Body pain, headache ",82.2,36.6,none,"I.M. artemether-lumefantrine, P-Alaxin tablet  tablet "
+19,F,"Abdominal pain,fever,headache,vomiting,nausea,",57.6,35.8,none,"I.M. artemether-lumefantrine, P-Alaxin tablet  tablet "
+18,M,"Body weakness,joint pain, headache,fever",57.9,38.5,none,"I.M. artemether-lumefantrine,I.M Paracetamol,Arthemeter Lumefantrine tablet"
+18,F,"Headache,Body pain, anorexia,fever,cough,Catarrh,vomiting ",69.4,37.4,none,"I.M. artemether-lumefantrine,I.M. promethazine (12.0 mg),Arthemeter Lumefantrine tablet"
+16,F,"Headache, Abdominal pain, Body weakness, Nausea, Joint pain",48,37.3,none,"I.M. artemether-lumefantrine,P-Alaxin tablet"
+19,F,"fever, joint pain, Body weakness, sorethroat, vomiting, Catarrh",66.2,38,none,"I.M. artemether-lumefantrine,P-Alaxin tablet "
+20,M,"Headache, Cough, Fever, Catarrh, Sorethroat",56,36.5,none,I.M. promethazine (12.0 mg) 
+18,F,"vomiting, cough, sorethroat, Chest pain, cold, fever",66.7,35.4,none,I.M. promethazine (12.0 mg) 
+18,M,"Fever,headache,Body weakness,Catarrh,cough,sore throat",57.6,40.8,none,I.V Artesunate
+19,M,"Abdominal pain, watery stooling, vomiting, fever, headache, cough,",64.11615385,36.4,none,"I.V Ciprofloxacin, I.V Metronidazole"
+20,M,"Abdominal pain, fever, headache",56.9,36.9,none,"I.V Ciprofloxacin, I.V Metronidazole"
+17,F,"Headache, Fever, Loss of appetite",48.2,36.9,none,"I.V Promethazine, Arthemeter Lumefantrine tablet, I.V.F"
+17,M,"Heachache,vomiting,Dizzinesss,Body pain,stooling,fever,cough,Catarrh",53.3,35.6,none,"I.V Promethazine, I.V.F, I.M Emal"
+19,M,"Headache, Body pain, fever",80.5,38.7,none,I.V Saline
+22,M,"seizure, unconcious, ",43.9,36.8,none,"I.V saline, I.M Emal "
+17,M,"headache, fever, reduced appetite, nausea, Bitter taste  ",64.11615385,38.9,none,I.V. artemether-lumefantrinee
+19,F,"Headache,eye pain,Abdominal pain ,stooling,Dizzinesss",67.8,36.3,none,I.V.F
+38,F,"Headache, Body pain, Cough, Chest pain ",64.11615385,38.1,none,"I.V.F,  I.V. artemether-lumefantrinee"
+16,M,"fever, headache, vomiting,",69,37.2,none,"I.V.F, Arthemeter lumefantrine"
+17,F,"headache, Dizzinesss, vomiting",66,36.6,none,"I.V.F, Arthemeter Lumefantrine tablet"
+17,F,"Body pain, headache, fever, weakness, nausea, vomiting, cough, Catarrh, sorethroat, Dizzinesss",63.9,37.8,none,"I.V.F, I.M Emal"
+20,F,"Dizzinesss, headache, fever, vomiting",42,37.4,none,"I.V.F, I.M Emal"
+19,F,"Headache,vomiting,cough",49.9,38.3,none,"I.V.F, I.M. artemether-lumefantrine"
+17,F,"fever, headache, Body pain, cold, Dizzinesss, vomiting",77,36.898434,none,"IV saline, I.M Emal"
+51,F,"headache, diarrhea",64.11615385,37.5,none,"IVF, I.M Emal, ACT tablet"
+19,M ,"Headache, Fever, vomiting, Abdominal pain",80.8,36.4,none,P-Alaxin tablet 
+18,M ,"Fever, Headache, Catarrh, Loss of appetite, Abdominal pain, vomiting, Stooling",77,36.5,none,P-Alaxin tablet 
+16,M,"headache, Body pain",64.11615385,36.7,none,P-Alaxin tablet 
+17,M,"Catarrh, sorethroat",64.5,36,none,P-Alaxin tablet 
+17,F,"headache, joint pain",47.8,37.1,none,P-Alaxin tablet 
+20,F,"Weakness, Dizzinesss, Headache",64.11615385,36.5,none,P-Alaxin tablet 
+42,F,"headache, joint pain, back pain, Abdominal pain, diarrhea",95.9,36.9,none,P-Alaxin tablet 
+42,F,"headache, nausea, lost of appitite, Body pain, fever, cold",64.11615385,36.4,none,P-Alaxin tablet 
+19,M,"Headache, Fever, Body weakness, Bitter taste  ,Cold",69.6,37.4,none,P-Alaxin tablet 
+19,F,"headache, Body pain, weakness, stooling, vomiting, nausea",56.6,37,none,P-Alaxin tablet 
+19,F,"fever, headache, vomiting, Body pain, Abdominal pain",49.3,36.5,none,P-Alaxin tablet 
+23,M,"headache, fever, Dizzinesss, cough, Catarrh, sorethroat, vomiting, nausea",66.9,36.3,none,P-Alaxin tablet 
+40,F,"Body pain, headache, Catarrh, fitigue, lost of appitite",64.11615385,36.8,none,P-Alaxin tablet 
+40,F ,"Body pain, Body weakness, Catarrh",65,36.7,None ,P-Alaxin tablet 
+21,M,"Dizzinesss, Stooling, Abdominal pain ",75.6,37.4,none,P-Alaxin tablet 
+18,F,"Headache,cold,cough,sore throat,Body pain,fever,Body weakness",51.7,36.7,none,P-Alaxin tablet 
+18,M ,"Catarrh, Headache",67.7,36.6,none,P-Alaxin tablet 
+20,F,"Body pain, Body weakness, Bitter taste  ",50.5,36.5,none,"P-Alaxin tablet  tablet , Amoxicillin, PCM tab"
+24,F,"Body pain, Headache",71,36.4,none,"P-Alaxin tablet ,  I.M Emal"
+20,M,"headache, sorethroat, weakness, Catarrh, cough",71,36.4,none,"P-Alaxin tablet , I.V. artemether-lumefantrine"
+19,M,"Fever, Sore throat, Mouth sores, Weakness, Body pain, Headache, ",81.6,36.4,none,Promethazine
